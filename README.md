@@ -23,6 +23,7 @@
   - [Shell](#shell)
   - [Svelte](#svelte)
   - [TypeScript](#typescript)
+  - [Vue](#vue)
 
 ## C 
 
@@ -41,6 +42,7 @@
 
 ## C++ 
 
+- [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
 - [o3de/o3de](https://github.com/o3de/o3de) - Source for fully featured AAA Open 3D Engine
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -82,6 +84,7 @@
 
 ## JavaScript 
 
+- [StreamElements/widgets](https://github.com/StreamElements/widgets) - 
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [crowbartools/Firebot](https://github.com/crowbartools/Firebot) - A powerful all-in-one bot for Twitch streamers
 - [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -153,6 +156,7 @@
 
 ## Jupyter Notebook 
 
+- [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [ClarityCoders/ComputerVision-OpenCV](https://github.com/ClarityCoders/ComputerVision-OpenCV) - Computer Vision course using python and OpenCV
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [snap-research/articulated-animation](https://github.com/snap-research/articulated-animation) - Code for Motion Representations for Articulated Animation paper
@@ -160,6 +164,7 @@
 
 ## Others 
 
+- [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
@@ -178,6 +183,7 @@
 
 ## PHP 
 
+- [Decicus/DecAPI](https://github.com/Decicus/DecAPI) - API provider/proxy that provides plaintext responses - Documentation: https://docs.decapi.me/
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 
 ## Python 
@@ -201,6 +207,7 @@
 
 ## Shell 
 
+- [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
@@ -212,6 +219,8 @@
 
 ## TypeScript 
 
+- [joe-sky/jsx-sfc](https://github.com/joe-sky/jsx-sfc) - A SFC like React function component API for managing CSS-in-JS and static members.
+- [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
 - [SevenTV/SevenTV](https://github.com/SevenTV/SevenTV) - It's like another third party thing
 - [joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - ReactJS + Vite boilerplate to be used with Tailwindcss.
@@ -241,6 +250,11 @@
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+
+## Vue 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 
 
 ## License
