@@ -44,7 +44,7 @@
 
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
-- [o3de/o3de](https://github.com/o3de/o3de) - Source for fully featured AAA Open 3D Engine
+- [o3de/o3de](https://github.com/o3de/o3de) - Source for O3DE (Open 3D Engine)
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -188,6 +188,7 @@
 
 ## Python 
 
+- [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships) - Collection of Summer 2022 tech internships!
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
