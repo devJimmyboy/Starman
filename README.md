@@ -13,12 +13,14 @@
   - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
+  - [Handlebars](#handlebars)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Rust](#rust)
   - [ShaderLab](#shaderlab)
   - [Shell](#shell)
   - [Svelte](#svelte)
@@ -65,6 +67,7 @@
 
 ## Go 
 
+- [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open source vector database powered by Faiss, NMSLIB and Annoy
 - [earthly/earthly](https://github.com/earthly/earthly) - Build automation for the container era
@@ -78,8 +81,13 @@
 - [thomasjohnkane/tailwind-alpine-chrome-extension](https://github.com/thomasjohnkane/tailwind-alpine-chrome-extension) - Starter Kit for building a Web Extension with Tailwindcss & AlpineJS
 - [PHLAK/presentation](https://github.com/PHLAK/presentation) - Presentation template using reveal.js + Tailwind CSS
 
+## Handlebars 
+
+- [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
+
 ## JavaScript 
 
+- [BarryCarlyon/LastFMNowPlaying](https://github.com/BarryCarlyon/LastFMNowPlaying) - A dumb/quick module to get current playing track
 - [StreamElements/widgets](https://github.com/StreamElements/widgets) - 
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [crowbartools/Firebot](https://github.com/crowbartools/Firebot) - A powerful all-in-one bot for Twitch streamers
@@ -164,6 +172,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -188,6 +197,7 @@
 
 ## Python 
 
+- [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships) - Collection of Summer 2022 tech internships!
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -200,6 +210,10 @@
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [animate1978/MB-Lab](https://github.com/animate1978/MB-Lab) - MB-Lab is a character creation tool for Blender 2.80+, based off ManuelBastioniLAB
 - [iam-abbas/Reddit-Stock-Trends](https://github.com/iam-abbas/Reddit-Stock-Trends) - Fetch currently trending stocks on Reddit
+
+## Rust 
+
+- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 
 ## ShaderLab 
 
@@ -220,6 +234,9 @@
 
 ## TypeScript 
 
+- [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
+- [rockcontent/rock-ui](https://github.com/rockcontent/rock-ui) - Rock Content Design System component kit in React. Based out on Chakra-UI.
+- [twurple/twurple](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub, WebHooks and EventSub.
 - [joe-sky/jsx-sfc](https://github.com/joe-sky/jsx-sfc) - A SFC like React function component API for managing CSS-in-JS and static members.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
