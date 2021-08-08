@@ -33,6 +33,7 @@
 
 ## C# # 
 
+- [StansAssets/com.stansassets.foundation](https://github.com/StansAssets/com.stansassets.foundation) - Collection of utility methods, design patterns, and extensions for Unity.
 - [umasteeringgroup/UMA](https://github.com/umasteeringgroup/UMA) - Unity Multipurpose Avatar
 - [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 - [Tayx94/graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
@@ -87,6 +88,11 @@
 
 ## JavaScript 
 
+- [enhancedtwitch/twitch-fetcher](https://github.com/enhancedtwitch/twitch-fetcher) - Fetch Twitch channel data and emotes (Includes BTTV, FFZ and 7TV)
+- [Seldszar/nodecg-vault](https://github.com/Seldszar/nodecg-vault) - Add vaults to NodeCG for storing bundle secrets
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
+- [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
 - [BarryCarlyon/LastFMNowPlaying](https://github.com/BarryCarlyon/LastFMNowPlaying) - A dumb/quick module to get current playing track
 - [StreamElements/widgets](https://github.com/StreamElements/widgets) - 
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
