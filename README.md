@@ -45,6 +45,7 @@
 
 ## C++ 
 
+- [univrsal/spectralizer](https://github.com/univrsal/spectralizer) - Audio visualizer plugin for obs-studio
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
 - [o3de/o3de](https://github.com/o3de/o3de) - Source for O3DE (Open 3D Engine)
@@ -140,7 +141,7 @@
 - [feathersjs-ecosystem/feathers-swagger](https://github.com/feathersjs-ecosystem/feathers-swagger) - Add documentation to your FeatherJS services and feed them to Swagger UI.
 - [CodingGarden/entropychat.app](https://github.com/CodingGarden/entropychat.app) - A discord clone made by the Coding Garden Community.
 - [mkody/twitch-emoticons](https://github.com/mkody/twitch-emoticons) - A JS module that gets Twitch emotes.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
