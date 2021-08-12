@@ -242,7 +242,6 @@
 ## TypeScript 
 
 - [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
-- [rockcontent/rock-ui](https://github.com/rockcontent/rock-ui) - Rock Content Design System component kit in React. Based out on Chakra-UI.
 - [twurple/twurple](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub, WebHooks and EventSub.
 - [joe-sky/jsx-sfc](https://github.com/joe-sky/jsx-sfc) - A SFC like React function component API for managing CSS-in-JS and static members.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
