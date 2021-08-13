@@ -89,6 +89,7 @@
 
 ## JavaScript 
 
+- [ottomated/ludboard](https://github.com/ottomated/ludboard) - 
 - [enhancedtwitch/twitch-fetcher](https://github.com/enhancedtwitch/twitch-fetcher) - Fetch Twitch channel data and emotes (Includes BTTV, FFZ and 7TV)
 - [Seldszar/nodecg-vault](https://github.com/Seldszar/nodecg-vault) - Add vaults to NodeCG for storing bundle secrets
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
