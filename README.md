@@ -275,7 +275,7 @@
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [pixijs/spine](https://github.com/pixijs/spine) - Pixi.js plugin that enables Spine support.
-- [pixijs/pixi-particles](https://github.com/pixijs/pixi-particles) - A particle system for PixiJS
+- [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [pixijs/sound](https://github.com/pixijs/sound) - WebAudio API playback library, with filters. Modern audio playback for modern browsers.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
