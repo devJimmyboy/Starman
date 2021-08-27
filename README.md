@@ -252,7 +252,7 @@
 - [joe-sky/jsx-sfc](https://github.com/joe-sky/jsx-sfc) - A SFC like React function component API for managing CSS-in-JS and static members.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
-- [SevenTV/SevenTV](https://github.com/SevenTV/SevenTV) - It's like another third party thing
+- [SevenTV/SevenTV](https://github.com/SevenTV/SevenTV) - A Web Extension implementing 7TV emotes and other features for integration in Twitch chat
 - [joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - ReactJS + Vite boilerplate to be used with Tailwindcss.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥A simple yet powerful extension to add wrapper templates around your code blocks
