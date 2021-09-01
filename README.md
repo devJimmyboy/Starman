@@ -208,6 +208,7 @@
 
 ## Python 
 
+- [BenAAndrew/Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [pittcsc/Summer2022-Internships](https://github.com/pittcsc/Summer2022-Internships) - Collection of Summer 2022 tech internships!
@@ -266,7 +267,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management for Turn-Based Games
+- [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [rive-app/rive-react](https://github.com/rive-app/rive-react) - 
 - [luukdv/hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React (1.5 KB) 🍔
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
