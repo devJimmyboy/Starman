@@ -16,6 +16,7 @@
   - [Handlebars](#handlebars)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
+  - [Kotlin](#kotlin)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -176,6 +177,10 @@
 - [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation
 - [snap-research/articulated-animation](https://github.com/snap-research/articulated-animation) - Code for Motion Representations for Articulated Animation paper
 - [aamini/introtodeeplearning](https://github.com/aamini/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
+
+## Kotlin 
+
+- [Tigermouthbear/ttvattendance](https://github.com/Tigermouthbear/ttvattendance) - Twitch stream attendance tracker
 
 ## OCaml 
 
