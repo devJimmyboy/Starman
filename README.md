@@ -50,7 +50,7 @@
 - [univrsal/spectralizer](https://github.com/univrsal/spectralizer) - Audio visualizer plugin for obs-studio
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
-- [o3de/o3de](https://github.com/o3de/o3de) - Source for O3DE (Open 3D Engine)
+- [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
@@ -92,6 +92,7 @@
 
 ## JavaScript 
 
+- [yingpengsha/electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - ⚡ Full stack uses Vite to run Electron application, including main process.
 - [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript) - A repository for All algorithms implemented in Javascript (for educational purposes only)
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -255,6 +256,8 @@
 
 ## TypeScript 
 
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [reakit/reakit](https://github.com/reakit/reakit) - Toolkit for building accessible rich web apps with React
 - [helloitsdan/nodecg-twitchie](https://github.com/helloitsdan/nodecg-twitchie) - 🤖💜 Twitchie makes it easy to get all your Twitch channel, stream, and chat information in NodeCG!
