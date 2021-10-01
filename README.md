@@ -262,6 +262,7 @@
 
 ## TypeScript 
 
+- [PakL/TTVStreamerTool](https://github.com/PakL/TTVStreamerTool) - TTVST is an application aimed at Twitch streamer.
 - [joaogamarra/clips-autoplay](https://github.com/joaogamarra/clips-autoplay) - Continuous video player for Twitch Clips
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
@@ -302,7 +303,7 @@
 - [pixijs/sound](https://github.com/pixijs/sound) - WebAudio API playback library, with filters. Modern audio playback for modern browsers.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
 - [dracula/dracula-ui](https://github.com/dracula/dracula-ui) - :vampire: A dark-first collection of UI patterns and components.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build custom CRUD apps that talk to any API or database. All without HTML or CSS.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.
 
 ## Vue 
 
