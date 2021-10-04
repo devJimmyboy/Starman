@@ -17,6 +17,7 @@
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
+  - [Makefile](#makefile)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -191,6 +192,10 @@
 
 - [Tigermouthbear/ttvattendance](https://github.com/Tigermouthbear/ttvattendance) - Twitch stream attendance tracker
 
+## Makefile 
+
+- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
+
 ## OCaml 
 
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
@@ -253,7 +258,6 @@
 
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [sharanda/manrope](https://github.com/sharanda/manrope) - Manrope font – modern geometric sans-serif
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
 
 ## Svelte 
