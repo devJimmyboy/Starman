@@ -97,6 +97,7 @@
 
 ## JavaScript 
 
+- [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [kittykatattack/hexi](https://github.com/kittykatattack/hexi) - Make games the fun way!
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
 - [google/shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
