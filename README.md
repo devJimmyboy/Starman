@@ -97,6 +97,7 @@
 
 ## JavaScript 
 
+- [hzoo/TwitchPlaysX](https://github.com/hzoo/TwitchPlaysX) - :video_game: Connect to IRC to send inputs to any program, Twitch Plays Pokemon style. (Windows, Linux, OSX)
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [kittykatattack/hexi](https://github.com/kittykatattack/hexi) - Make games the fun way!
 - [cookpete/react-player](https://github.com/cookpete/react-player) - A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion
