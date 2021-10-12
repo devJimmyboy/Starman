@@ -97,6 +97,7 @@
 
 ## JavaScript 
 
+- [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [hzoo/TwitchPlaysX](https://github.com/hzoo/TwitchPlaysX) - :video_game: Connect to IRC to send inputs to any program, Twitch Plays Pokemon style. (Windows, Linux, OSX)
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
 - [kittykatattack/hexi](https://github.com/kittykatattack/hexi) - Make games the fun way!
@@ -268,6 +269,7 @@
 
 ## TypeScript 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [PakL/TTVStreamerTool](https://github.com/PakL/TTVStreamerTool) - TTVST is an application aimed at Twitch streamer.
 - [joaogamarra/clips-autoplay](https://github.com/joaogamarra/clips-autoplay) - Continuous video player for Twitch Clips
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
