@@ -97,6 +97,7 @@
 
 ## JavaScript 
 
+- [civiccc/react-waypoint](https://github.com/civiccc/react-waypoint) - A React component to execute a function whenever you scroll to an element.
 - [KiranGershenfeld/VisualizingTwitchCommunities](https://github.com/KiranGershenfeld/VisualizingTwitchCommunities) - Graphing communities on Twitch.tv in a visually intuitive way
 - [hzoo/TwitchPlaysX](https://github.com/hzoo/TwitchPlaysX) - :video_game: Connect to IRC to send inputs to any program, Twitch Plays Pokemon style. (Windows, Linux, OSX)
 - [brunosimon/my-room-in-3d](https://github.com/brunosimon/my-room-in-3d) - 
