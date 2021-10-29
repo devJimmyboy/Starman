@@ -16,6 +16,7 @@
   - [HTML](#html)
   - [Hack](#hack)
   - [Handlebars](#handlebars)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
@@ -111,6 +112,10 @@
 ## Handlebars 
 
 - [microsoft/vscode-codicons](https://github.com/microsoft/vscode-codicons) - The icon font for Visual Studio Code
+
+## Java 
+
+- [OGSegu/Twitch-View-Bot](https://github.com/OGSegu/Twitch-View-Bot) - First open-source really working view bot for Twitch
 
 ## JavaScript 
 
