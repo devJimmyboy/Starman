@@ -122,6 +122,7 @@
 
 ## JavaScript 
 
+- [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [KaterinaLupacheva/react-progress-bar](https://github.com/KaterinaLupacheva/react-progress-bar) - Simple React progress bar component
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -323,6 +324,8 @@
 
 ## TypeScript 
 
+- [Zamiell/isaac-among-us](https://github.com/Zamiell/isaac-among-us) - 
+- [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - 
 - [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A chakra-ui wrapper for the popular select library react-select
 - [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer) - react-markdown renderer for people who using Chakra-UI's CSSReset component
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
