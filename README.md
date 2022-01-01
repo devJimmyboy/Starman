@@ -42,6 +42,7 @@
 
 ## C# # 
 
+- [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
 - [unity-atoms/unity-atoms](https://github.com/unity-atoms/unity-atoms) - ⚛️ Tiny modular pieces utilizing the power of Scriptable Objects
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity3D
@@ -122,6 +123,7 @@
 
 ## JavaScript 
 
+- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [KaterinaLupacheva/react-progress-bar](https://github.com/KaterinaLupacheva/react-progress-bar) - Simple React progress bar component
@@ -249,6 +251,7 @@
 
 ## Others 
 
+- [chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -277,6 +280,7 @@
 
 ## Python 
 
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
 - [Felflare/rpunct](https://github.com/Felflare/rpunct) - 📝An easy-to-use package to restore punctuation of the text.
 - [Agantor/viewerbot](https://github.com/Agantor/viewerbot) - Twitch Viewer Bot (Python + proxies)
@@ -314,6 +318,7 @@
 
 ## Shell 
 
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: A Zsh prompt for Astronauts
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
@@ -324,6 +329,15 @@
 
 ## TypeScript 
 
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+- [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
+- [projen/projen](https://github.com/projen/projen) - A new generation of project generators
+- [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
+- [soulsam480/vite-electron-react-starter](https://github.com/soulsam480/vite-electron-react-starter) - Vite 2 + Electron 11.x + React 17.x + Typescript template. fork of @cawa-93/vite-electron-builder for react.
 - [Zamiell/isaac-among-us](https://github.com/Zamiell/isaac-among-us) - 
 - [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - 
 - [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A chakra-ui wrapper for the popular select library react-select
