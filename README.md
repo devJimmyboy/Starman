@@ -343,7 +343,7 @@
 - [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - 
 - [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A chakra-ui wrapper for the popular select library react-select
 - [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer) - react-markdown renderer for people who using Chakra-UI's CSSReset component
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components and hooks library with native dark theme support focused on usability, accessibility and developer experience
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
