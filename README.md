@@ -404,7 +404,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
