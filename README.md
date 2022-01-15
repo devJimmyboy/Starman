@@ -92,6 +92,7 @@
 
 ## Go 
 
+- [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (mattermost not required!)
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
@@ -333,6 +334,8 @@
 
 ## TypeScript 
 
+- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [pvarentsov/iola](https://github.com/pvarentsov/iola) - 🔄 iola: Command-line socket client with REST API.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
