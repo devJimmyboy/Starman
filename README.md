@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
@@ -204,7 +205,7 @@
 - [feathersjs-ecosystem/feathers-swagger](https://github.com/feathersjs-ecosystem/feathers-swagger) - Add documentation to your FeatherJS services and feed them to Swagger UI.
 - [CodingGarden/entropychat.app](https://github.com/CodingGarden/entropychat.app) - A discord clone made by the Coding Garden Community.
 - [mkody/twitch-emoticons](https://github.com/mkody/twitch-emoticons) - A JS module that gets Twitch emotes.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2021)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (January 2022)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [thomasjohnkane/tailwind-alpine-chrome-extension](https://github.com/thomasjohnkane/tailwind-alpine-chrome-extension) - Starter Kit for building a Web Extension with Tailwindcss & AlpineJS
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
