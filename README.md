@@ -335,6 +335,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [pvarentsov/iola](https://github.com/pvarentsov/iola) - 🔄 iola: Command-line socket client with REST API.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
@@ -357,7 +358,7 @@
 - [soulsam480/vite-electron-react-starter](https://github.com/soulsam480/vite-electron-react-starter) - Vite 2.x + Electron@latest + React@latest + Typescript template. fork of @cawa-93/vite-electron-builder for react.
 - [Zamiell/isaac-among-us](https://github.com/Zamiell/isaac-among-us) - 
 - [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - 
-- [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A chakra-ui wrapper for the popular select library react-select
+- [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A Chakra UI wrapper for the popular library React Select
 - [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer) - react-markdown renderer for people who using Chakra-UI's CSSReset component
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
