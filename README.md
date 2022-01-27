@@ -315,7 +315,7 @@
 ## Rust 
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
 
 ## ShaderLab 
 
@@ -335,6 +335,8 @@
 
 ## TypeScript 
 
+- [hannahcode/wordle](https://github.com/hannahcode/wordle) - A clone of the popular game Wordle made using React, Typescript, and Tailwind
+- [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [bennodev19/dronies-watch](https://github.com/bennodev19/dronies-watch) - 🐦
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
