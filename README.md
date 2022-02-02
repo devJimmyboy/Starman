@@ -335,7 +335,7 @@
 
 ## TypeScript 
 
-- [hannahcode/wordle](https://github.com/hannahcode/wordle) - A clone of the popular game Wordle made using React, Typescript, and Tailwind
+- [hannahcode/word-guessing-game](https://github.com/hannahcode/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [bennodev19/dronies-watch](https://github.com/bennodev19/dronies-watch) - 🐦
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
