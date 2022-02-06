@@ -337,7 +337,7 @@
 ## TypeScript 
 
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-- [hannahcode/word-guessing-game](https://github.com/hannahcode/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
+- [cwackerfuss/word-guessing-game](https://github.com/cwackerfuss/word-guessing-game) - A word guessing game made using React, Typescript, and Tailwind
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [bennodev19/dronies-watch](https://github.com/bennodev19/dronies-watch) - 🐦
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
@@ -410,7 +410,7 @@
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥A simple yet powerful extension to add wrapper templates around your code blocks
 - [codeoverflow-org/nodecg-io](https://github.com/codeoverflow-org/nodecg-io) - A NodeCG-bundle which implements Social Media API's in the NodeCG framework
-- [Wufe/react-particles-js](https://github.com/Wufe/react-particles-js) - Particles.js for React
+- [wufe/react-particles-js](https://github.com/wufe/react-particles-js) - Particles.js for React
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
