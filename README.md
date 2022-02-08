@@ -124,10 +124,12 @@
 
 ## Java 
 
+- [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, aspiring mod developers, for education, online classes, and STEM workshops.
 - [OGSegu/Twitch-View-Bot](https://github.com/OGSegu/Twitch-View-Bot) - First open-source really working view bot for Twitch
 
 ## JavaScript 
 
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
@@ -336,6 +338,10 @@
 
 ## TypeScript 
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
+- [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [TheoBr/yerba](https://github.com/TheoBr/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
 - [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
@@ -356,7 +362,7 @@
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [serverless-stack/serverless-stack](https://github.com/serverless-stack/serverless-stack) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-- [antfu/unocss](https://github.com/antfu/unocss) - The instant on-demand atomic CSS engine.
+- [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
 - [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
