@@ -294,6 +294,7 @@
 
 ## Python 
 
+- [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/)
 - [pajbot/pajbot](https://github.com/pajbot/pajbot) - Twitch moderation bot
 - [ItsDeidara/CommunityController](https://github.com/ItsDeidara/CommunityController) - https://www.twitch.tv/communitycontroller
 - [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
