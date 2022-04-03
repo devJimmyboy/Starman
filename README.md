@@ -132,6 +132,8 @@
 
 ## JavaScript 
 
+- [dynastic/place](https://github.com/dynastic/place) - An open-source recreation of Reddit's /r/place.
+- [eliasbenb/Placer](https://github.com/eliasbenb/Placer) - Automating reddit's r/place
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -294,6 +296,7 @@
 
 ## Python 
 
+- [Geosearchef/placebot](https://github.com/Geosearchef/placebot) - A bot for the reddit r/place event 2022
 - [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/)
 - [pajbot/pajbot](https://github.com/pajbot/pajbot) - Twitch moderation bot
 - [ItsDeidara/CommunityController](https://github.com/ItsDeidara/CommunityController) - https://www.twitch.tv/communitycontroller
