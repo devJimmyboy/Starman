@@ -350,6 +350,7 @@
 
 ## TypeScript 
 
+- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A nice modal manager for React.
 - [caoxiemeihao/electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - Electron + Vite + TypeScript. Support SerialPort, SQLite3 and node C/C++ addons.
 - [Gabb-c/pokenode-ts](https://github.com/Gabb-c/pokenode-ts) - A lightweight Node.js wrapper for the PokéAPI with built-in types.
