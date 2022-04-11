@@ -301,6 +301,7 @@
 
 ## Python 
 
+- [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [tt2468/twitch_liveleech](https://github.com/tt2468/twitch_liveleech) - A script to monitor a Twitch channel and record the HLS stream when it goes live
 - [Geosearchef/placebot](https://github.com/Geosearchef/placebot) - A bot for the reddit r/place event 2022
 - [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/)
