@@ -63,7 +63,7 @@
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
@@ -356,6 +356,7 @@
 
 ## TypeScript 
 
+- [tfarras/nestjs-firebase-auth](https://github.com/tfarras/nestjs-firebase-auth) - 
 - [Hoishin/use-nodecg](https://github.com/Hoishin/use-nodecg) - React Custom Hooks for NodeCG
 - [meganrogge/template-string-converter](https://github.com/meganrogge/template-string-converter) - Autocorrect from quotes to backticks
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  End-to-end typesafe APIs made easy
