@@ -63,7 +63,7 @@
 
 - [bkaradzic/bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR pipeline, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
@@ -73,7 +73,7 @@
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
-- [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Unity Assets Bundle Extractor
+- [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 ## CSS 
@@ -356,6 +356,7 @@
 
 ## TypeScript 
 
+- [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [tfarras/nestjs-firebase-auth](https://github.com/tfarras/nestjs-firebase-auth) - 
 - [Hoishin/use-nodecg](https://github.com/Hoishin/use-nodecg) - React Custom Hooks for NodeCG
 - [meganrogge/template-string-converter](https://github.com/meganrogge/template-string-converter) - Autocorrect from quotes to backticks
@@ -435,7 +436,7 @@
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
-- [twurple/twurple](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub, WebHooks and EventSub.
+- [twurple/twurple](https://github.com/twurple/twurple) - Interact with Twitch's API, chat and subscribe to events via PubSub and EventSub.
 - [joe-sky/jsx-sfc](https://github.com/joe-sky/jsx-sfc) - A SFC like React function component API for managing CSS-in-JS and static members.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
