@@ -97,6 +97,7 @@
 
 ## Go 
 
+- [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -105,7 +106,7 @@
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
-- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
+- [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 
@@ -356,6 +357,7 @@
 
 ## TypeScript 
 
+- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [tfarras/nestjs-firebase-auth](https://github.com/tfarras/nestjs-firebase-auth) - 
 - [Hoishin/use-nodecg](https://github.com/Hoishin/use-nodecg) - React Custom Hooks for NodeCG
@@ -410,7 +412,7 @@
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
@@ -425,7 +427,6 @@
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ⚡️ Chakra UI,  ⚛️  React Query & 🐜  Formiz — From the 🐻  BearStudio Team
-- [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [PakL/TTVStreamerTool](https://github.com/PakL/TTVStreamerTool) - TTVST is an application aimed at Twitch streamer.
 - [joaogamarra/clips-autoplay](https://github.com/joaogamarra/clips-autoplay) - Continuous video player for Twitch Clips
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
