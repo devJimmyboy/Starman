@@ -42,6 +42,7 @@
 
 ## C# # 
 
+- [Facepunch/Rust.Community](https://github.com/Facepunch/Rust.Community) - Community Entity to fill Server Side modder requests
 - [Meowmaritus/DSAnimStudio](https://github.com/Meowmaritus/DSAnimStudio) - Direct3D-Accelerated Dark Souls TAE Editor
 - [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
 - [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
@@ -140,7 +141,6 @@
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) - The Twitch Enhancement Suite. Get custom emotes and tons of new features you'll never want to go without.
 - [dynastic/place](https://github.com/dynastic/place) - An open-source recreation of Reddit's /r/place.
-- [eliasbenb/Placer](https://github.com/eliasbenb/Placer) - Automating reddit's r/place
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -280,7 +280,7 @@
 - [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [danistefanovic/build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
 - [kittykatattack/learningPixi](https://github.com/kittykatattack/learningPixi) - A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
