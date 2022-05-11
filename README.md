@@ -138,6 +138,7 @@
 
 ## JavaScript 
 
+- [1umutda/MusicBot](https://github.com/1umutda/MusicBot) - Discord.js v13 compatible latest version discord music codes, with which you can create your special music bot, were made with discord-player. github.com is specially tailored for computer users. This
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
