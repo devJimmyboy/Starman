@@ -138,6 +138,8 @@
 
 ## JavaScript 
 
+- [ryanbarr/node-streamelements](https://github.com/ryanbarr/node-streamelements) - An unofficial wrapper for the StreamElements API.
+- [j3channel/StreamElementsWidgets](https://github.com/j3channel/StreamElementsWidgets) - We've created some Widgets to use with your StreamElements overlays! Feel free to use them for your own streams!
 - [1umutda/MusicBot](https://github.com/1umutda/MusicBot) - Discord.js v13 compatible latest version discord music codes, with which you can create your special music bot, were made with discord-player. github.com is specially tailored for computer users. This
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
@@ -472,7 +474,7 @@
 - [pixijs/spine](https://github.com/pixijs/spine) - Pixi.js plugin that enables Spine support.
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
 - [pixijs/sound](https://github.com/pixijs/sound) - WebAudio API playback library, with filters. Modern audio playback for modern browsers.
-- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (Beta)
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
