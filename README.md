@@ -42,6 +42,8 @@
 
 ## C# # 
 
+- [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
+- [jeffreylanters/unity-tweens](https://github.com/jeffreylanters/unity-tweens) - An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
 - [Facepunch/Rust.Community](https://github.com/Facepunch/Rust.Community) - Community Entity to fill Server Side modder requests
 - [Meowmaritus/DSAnimStudio](https://github.com/Meowmaritus/DSAnimStudio) - Direct3D-Accelerated Dark Souls TAE Editor
 - [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
@@ -138,6 +140,9 @@
 
 ## JavaScript 
 
+- [Supinic/supibot-package-manager](https://github.com/Supinic/supibot-package-manager) - Hub repository for all custom modules and packages for the Supibot project.
+- [kribblo/node-ffmpeg-installer](https://github.com/kribblo/node-ffmpeg-installer) - Platform independent binary installer of FFmpeg for node projects
+- [reboot0-de/se-tools](https://github.com/reboot0-de/se-tools) - A toolset designed to make the life of StreamElements widget developers easier.
 - [ryanbarr/node-streamelements](https://github.com/ryanbarr/node-streamelements) - An unofficial wrapper for the StreamElements API.
 - [j3channel/StreamElementsWidgets](https://github.com/j3channel/StreamElementsWidgets) - We've created some Widgets to use with your StreamElements overlays! Feel free to use them for your own streams!
 - [1umutda/MusicBot](https://github.com/1umutda/MusicBot) - Discord.js v13 compatible latest version discord music codes, with which you can create your special music bot, were made with discord-player. github.com is specially tailored for computer users. This
@@ -285,7 +290,7 @@
 - [insthync/awesome-unity3d](https://github.com/insthync/awesome-unity3d) - A categorized collection of awesome opensource unity3d repos
 - [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [kittykatattack/learningPixi](https://github.com/kittykatattack/learningPixi) - A step-by-step introduction to making games and interactive media with the Pixi.js rendering engine.
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries.
@@ -362,6 +367,13 @@
 
 ## TypeScript 
 
+- [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [typeorm/typescript-express-example](https://github.com/typeorm/typescript-express-example) - Example how to use Express and TypeORM with TypeScript
+- [anchan828/typeorm-helpers](https://github.com/anchan828/typeorm-helpers) - 
+- [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
+- [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
