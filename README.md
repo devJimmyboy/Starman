@@ -141,6 +141,8 @@
 
 ## JavaScript 
 
+- [Supinic/supibot](https://github.com/Supinic/supibot) - Multiplatform, utility & novelty chat bot.
+- [Supinic/supi-core](https://github.com/Supinic/supi-core) - Selective collection of smaller modules.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
 - [Supinic/supibot-package-manager](https://github.com/Supinic/supibot-package-manager) - Hub repository for all custom modules and packages for the Supibot project.
 - [kribblo/node-ffmpeg-installer](https://github.com/kribblo/node-ffmpeg-installer) - Platform independent binary installer of FFmpeg for node projects
