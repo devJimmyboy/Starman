@@ -107,7 +107,7 @@
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com. SQL 审核查询平台
 - [tinode/chat](https://github.com/tinode/chat) - Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
 - [milvus-io/milvus](https://github.com/milvus-io/milvus) - An open-source vector database for scalable similarity search and AI applications.
 - [earthly/earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
