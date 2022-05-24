@@ -42,6 +42,7 @@
 
 ## C# # 
 
+- [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
 - [jeffreylanters/unity-tweens](https://github.com/jeffreylanters/unity-tweens) - An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
 - [Facepunch/Rust.Community](https://github.com/Facepunch/Rust.Community) - Community Entity to fill Server Side modder requests
@@ -370,6 +371,8 @@
 
 ## TypeScript 
 
+- [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+- [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
@@ -393,7 +396,6 @@
 - [Gabb-c/pokenode-ts](https://github.com/Gabb-c/pokenode-ts) - A lightweight Node.js wrapper for the PokéAPI with built-in types.
 - [moodiest/vite-electron-builder-react](https://github.com/moodiest/vite-electron-builder-react) - React version of cawa-93's secure boilerplate for Electron apps with Vite and TypeScript.
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass + boilerplate.
-- [Jimmyboy-dev/PeepoSings](https://github.com/Jimmyboy-dev/PeepoSings) - Mood-Oriented Music Player that categorizes music into moods. Created for Livestream-Centric Music (Think Ludwig).
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
