@@ -42,6 +42,7 @@
 
 ## C# # 
 
+- [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
 - [jeffreylanters/unity-tweens](https://github.com/jeffreylanters/unity-tweens) - An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
