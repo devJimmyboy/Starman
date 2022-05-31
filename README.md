@@ -35,6 +35,8 @@
 
 ## C 
 
+- [MozillaReality/servo-unity](https://github.com/MozillaReality/servo-unity) - Servo for Unity - experimental
+- [pangweiwei/slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
 - [olliz0r/sys-botbase](https://github.com/olliz0r/sys-botbase) - 
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -42,6 +44,52 @@
 
 ## C# # 
 
+- [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - *Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.
+- [jorgejgnz/HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit
+- [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC
+- [CandyCoded/CandyCoded](https://github.com/CandyCoded/CandyCoded) - 🍭 Custom Unity Components that are delightful
+- [5argon/GradientGenerator](https://github.com/5argon/GradientGenerator) - A Unity script to generate multiple variants of evenly distributed `Gradient` based on input `AnimationCurve`.
+- [natsupy/CropTexture](https://github.com/natsupy/CropTexture) - Crop and resize texture in unity editor! Open it: Press F1
+- [FeNo/InGameReplay](https://github.com/FeNo/InGameReplay) - Allow you to record the transform of any objects to replay it
+- [fholm/unityassets](https://github.com/fholm/unityassets) - Assorted unity assets and utilities
+- [Chman/Moments](https://github.com/Chman/Moments) - A quick GIF replay recorder for Unity
+- [n-yoda/unity-vertex-effects](https://github.com/n-yoda/unity-vertex-effects) - Beautiful text outline for Unity UI.
+- [Area730/MiniMap](https://github.com/Area730/MiniMap) - Unity3D mini map (radar) system (Asset Store link - https://www.assetstore.unity3d.com/en/#!/content/33729 )
+- [JustInvoke/Randomation-Vehicle-Physics](https://github.com/JustInvoke/Randomation-Vehicle-Physics) - Vehicle physics system for the Unity engine.
+- [Demigiant/dotween](https://github.com/Demigiant/dotween) - A Unity C# animation engine. HOTween v2
+- [ricardojmendez/LibNoise.Unity](https://github.com/ricardojmendez/LibNoise.Unity) - Coherent noise library for Unity, a port of LibNoise. NOTE: I'm not actively maintaining or developing the project.
+- [TeamSirenix/odin-serializer](https://github.com/TeamSirenix/odin-serializer) - Fast, robust, powerful and extendible .NET serializer built for Unity
+- [neverproductive/yaSingleton](https://github.com/neverproductive/yaSingleton) - A singleton pattern implementation for Unity3d. Based on ScriptableObjects instead of the conventional MonoBehaviour approach.
+- [OndrejNepozitek/Edgar-Unity](https://github.com/OndrejNepozitek/Edgar-Unity) - Unity Procedural Level Generator
+- [Syomus/ProceduralToolkit](https://github.com/Syomus/ProceduralToolkit) - Procedural generation library for Unity
+- [uta-org/PuppeteerSharp.Unity3D](https://github.com/uta-org/PuppeteerSharp.Unity3D) - Headless Chrome .NET API
+- [staggartcreations/Graphics-Raycast](https://github.com/staggartcreations/Graphics-Raycast) - GPU-based raycaster for Unity
+- [debox-dev/Teleport](https://github.com/debox-dev/Teleport) - A fast, lightweight, pure C# Unity realtime-game-networking framework
+- [proyecto26/RestClient](https://github.com/proyecto26/RestClient) - 🦄  A Promise based REST and HTTP client for Unity 🎮
+- [Facepunch/Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Another fucking c# Steamworks implementation
+- [NetEase/UnitySocketIO](https://github.com/NetEase/UnitySocketIO) - socket.io client for unity3d.
+- [soomla/unity3d-levelup](https://github.com/soomla/unity3d-levelup) - Unity3D F2P game progression library - worlds, levels, missions, scores, records and more. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
+- [soomla/unity3d-store](https://github.com/soomla/unity3d-store) - Unity in-app purchase & virtual economy library. Part of The SOOMLA Framework - for game design, economy modeling and faster development.
+- [SiiMeR/unity-volumetric-fog](https://github.com/SiiMeR/unity-volumetric-fog) - A volumetric fog implementation in Unity.
+- [keenanwoodall/Grapple-Effect](https://github.com/keenanwoodall/Grapple-Effect) - An example of a simple grapple effect in Unity
+- [devdogio/Inventory-Pro](https://github.com/devdogio/Inventory-Pro) - 
+- [Arvtesh/UnityFx.Outline](https://github.com/Arvtesh/UnityFx.Outline) - Screen-space outlines for Unity3d.
+- [QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library) - Unity Post Processing Stack Library | Unity引擎的高品质后处理库
+- [Scrawk/Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
+- [nkjzm/Mirror](https://github.com/nkjzm/Mirror) - Unityで使えるシンプルな鏡アセットです
+- [wudixiaop/ShaderlabVS](https://github.com/wudixiaop/ShaderlabVS) - ShaderlabVS is a Visual Studio plugin for Unity Shaderlab programming
+- [Facepunch/Facepunch.Highlight](https://github.com/Facepunch/Facepunch.Highlight) - Mesh outline effect
+- [i-saint/Unity5Effects](https://github.com/i-saint/Unity5Effects) - 
+- [cakeslice/Outline-Effect](https://github.com/cakeslice/Outline-Effect) - Outline Image Effect for Unity
+- [TinyPHX/Readme](https://github.com/TinyPHX/Readme) - Readme component for Unity, attachable to any GameObject to document what you can't in a script or the file system.
+- [modesttree/Zenject](https://github.com/modesttree/Zenject) - Dependency Injection Framework for Unity3D
+- [mminer/consolation](https://github.com/mminer/consolation) - In-game debug console for Unity.
+- [gasgiant/Camera-Shake](https://github.com/gasgiant/Camera-Shake) - Camera shake for Unity
+- [debox-dev/Unity_AudioRig](https://github.com/debox-dev/Unity_AudioRig) - Unity3D Audio Utility
+- [BoundingBoxSoftware/Materialize](https://github.com/BoundingBoxSoftware/Materialize) - Materialize is a program for converting images to materials for use in video games and whatnot
+- [OneYoungMean/Automatic-DynamicBone](https://github.com/OneYoungMean/Automatic-DynamicBone) - unity bone cloth spring system,base by jobs
+- [meniku/UnityVoxelTools](https://github.com/meniku/UnityVoxelTools) - Collection of Voxel Utilities for Unity
+- [neuecc/UniRx](https://github.com/neuecc/UniRx) - Reactive Extensions for Unity
 - [LavaGang/MelonLoader](https://github.com/LavaGang/MelonLoader) - The World's First Universal Mod Loader for Unity Games compatible with both Il2Cpp and Mono
 - [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
@@ -102,6 +150,7 @@
 
 ## Go 
 
+- [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
@@ -143,6 +192,7 @@
 
 ## JavaScript 
 
+- [openupm/openupm](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too.
 - [Supinic/supibot](https://github.com/Supinic/supibot) - Multiplatform, utility & novelty chat bot.
 - [Supinic/supi-core](https://github.com/Supinic/supi-core) - Selective collection of smaller modules.
@@ -186,6 +236,7 @@
 - [yingpengsha/electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - ⚡ Full stack uses Vite to run Electron application, including main process.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ottomated/ludboard](https://github.com/ottomated/ludboard) - 
 - [enhancedtwitch/twitch-fetcher](https://github.com/enhancedtwitch/twitch-fetcher) - Fetch Twitch channel data and emotes (Includes BTTV, FFZ and 7TV)
 - [Seldszar/nodecg-vault](https://github.com/Seldszar/nodecg-vault) - Add vaults to NodeCG for storing bundle secrets
@@ -288,6 +339,8 @@
 
 ## Others 
 
+- [raphael-ernaelsten/Aura](https://github.com/raphael-ernaelsten/Aura) - Volumetric Lighting for Unity
+- [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
@@ -355,6 +408,8 @@
 
 ## ShaderLab 
 
+- [naelstrof/UnityJigglePhysics](https://github.com/naelstrof/UnityJigglePhysics) - A unity addon for adding stretchy bouncy physics to bones and meshes.
+- [ellioman/ShaderProject](https://github.com/ellioman/ShaderProject) - A container for all sorts of handy shaders.
 - [ewersp/Shaders](https://github.com/ewersp/Shaders) - A collection of shaders written in CG/ShaderLab for Unity.
 - [Shrimpey/UltimateOutline](https://github.com/Shrimpey/UltimateOutline) - The easiest way to achieve outlines in unity.
 
@@ -372,6 +427,7 @@
 
 ## TypeScript 
 
+- [pCYSl5EDgo/setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
@@ -462,7 +518,6 @@
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [helloitsdan/nodecg-twitchie](https://github.com/helloitsdan/nodecg-twitchie) - 🤖💜 Twitchie makes it easy to get all your Twitch channel, stream, and chat information in NodeCG!
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
