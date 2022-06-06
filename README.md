@@ -371,6 +371,7 @@
 
 ## Python 
 
+- [IS2511/AI-TTS-Donations](https://github.com/IS2511/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and now FakeYou) AI to make bit donations have an AI voice.
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
 - [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [tt2468/twitch_liveleech](https://github.com/tt2468/twitch_liveleech) - A script to monitor a Twitch channel and record the HLS stream when it goes live
