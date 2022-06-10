@@ -44,6 +44,7 @@
 
 ## C# # 
 
+- [thefifthmatt/SoulsRandomizers](https://github.com/thefifthmatt/SoulsRandomizers) - DS3 and Sekiro Randomizers
 - [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - *Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.
 - [jorgejgnz/HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit
 - [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC
@@ -409,7 +410,7 @@
 ## Rust 
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 
 ## ShaderLab 
 
@@ -547,7 +548,7 @@
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [rive-app/rive-react](https://github.com/rive-app/rive-react) - 
+- [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive
 - [luukdv/hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React (1.5 KB) 🍔
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [lunahq/react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles
