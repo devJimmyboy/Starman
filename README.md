@@ -239,7 +239,6 @@
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [yingpengsha/electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - ⚡ Full stack uses Vite to run Electron application, including main process.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [ottomated/ludboard](https://github.com/ottomated/ludboard) - 
 - [enhancedtwitch/twitch-fetcher](https://github.com/enhancedtwitch/twitch-fetcher) - Fetch Twitch channel data and emotes (Includes BTTV, FFZ and 7TV)
@@ -526,6 +525,7 @@
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [cawa-93/vite-electron-builder](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla
 - [47ng/chakra-next](https://github.com/47ng/chakra-next) - Opinionated design system for React, based on Chakra UI + Next.js, written in TypeScript.
+- [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [helloitsdan/nodecg-twitchie](https://github.com/helloitsdan/nodecg-twitchie) - 🤖💜 Twitchie makes it easy to get all your Twitch channel, stream, and chat information in NodeCG!
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
