@@ -193,6 +193,8 @@
 
 ## JavaScript 
 
+- [Ravenbtw/mentions-server](https://github.com/Ravenbtw/mentions-server) - 
+- [Ravenbtw/mentions-ejs](https://github.com/Ravenbtw/mentions-ejs) - 
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) - jChat is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit, and any other streaming software that supports browser sources.
 - [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
 - [Mahcks/YEAHBUTDVDs](https://github.com/Mahcks/YEAHBUTDVDs) - Generate a DVD-style bouncing emote overlay for your Twitch stream with a single click.
