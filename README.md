@@ -203,7 +203,7 @@
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too.
 - [Supinic/supibot](https://github.com/Supinic/supibot) - Multiplatform, utility & novelty chat bot.
 - [Supinic/supi-core](https://github.com/Supinic/supi-core) - Selective collection of smaller modules.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - Budibase is a low-code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
+- [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for creating internal apps, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you
 - [Supinic/supibot-package-manager](https://github.com/Supinic/supibot-package-manager) - Hub repository for all custom modules and packages for the Supibot project.
 - [kribblo/node-ffmpeg-installer](https://github.com/kribblo/node-ffmpeg-installer) - Platform independent binary installer of FFmpeg for node projects
 - [reboot0-de/se-tools](https://github.com/reboot0-de/se-tools) - A toolset designed to make the life of StreamElements widget developers easier.
@@ -435,6 +435,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
@@ -442,7 +443,6 @@
 - [ccorsano/TwitchBingoExtension](https://github.com/ccorsano/TwitchBingoExtension) - Twitch Live Bingo
 - [Mahcks/twitch-emote-parser](https://github.com/Mahcks/twitch-emote-parser) - NPM package that parses Twitch chat for 3rd party, and channel emotes.
 - [pCYSl5EDgo/setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
