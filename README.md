@@ -319,6 +319,7 @@
 
 ## Jupyter Notebook 
 
+- [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples) - Code samples of LoginRadius Engineering Blog
 - [sudomaze/OnlySudo](https://github.com/sudomaze/OnlySudo) - A Discord/Twitch bot that uses AI models to do some cool stuff.
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
 - [ClarityCoders/ComputerVision-OpenCV](https://github.com/ClarityCoders/ComputerVision-OpenCV) - Computer Vision course using python and OpenCV
