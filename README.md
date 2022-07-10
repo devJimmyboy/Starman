@@ -32,6 +32,7 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vim script](#vim-script)
+- [Zig](#zig)
 
 ## C 
 
@@ -575,6 +576,10 @@
 ## Vim script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## Zig 
+
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 
 
 ## License
