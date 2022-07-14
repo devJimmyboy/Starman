@@ -210,7 +210,7 @@
 - [reboot0-de/se-tools](https://github.com/reboot0-de/se-tools) - A toolset designed to make the life of StreamElements widget developers easier.
 - [ryanbarr/node-streamelements](https://github.com/ryanbarr/node-streamelements) - An unofficial wrapper for the StreamElements API.
 - [j3channel/StreamElementsWidgets](https://github.com/j3channel/StreamElementsWidgets) - We've created some Widgets to use with your StreamElements overlays! Feel free to use them for your own streams!
-- [1umutda/MusicBot](https://github.com/1umutda/MusicBot) - It contains the public commands of the discord music bot named Astra, this bot is an up-to-date and advanced music bot made with discord.js v13. Bot commands consist of slash commands and play music f
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - It contains the public commands of the discord music bot named Astra, this bot is an up-to-date and advanced music bot made with discord.js v13. Bot commands consist of slash commands and play music f
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
