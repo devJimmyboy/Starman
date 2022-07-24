@@ -436,6 +436,7 @@
 
 ## TypeScript 
 
+- [SevenTV/Website](https://github.com/SevenTV/Website) - [work in progress] The 7TV Web App with the Vue framework
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
