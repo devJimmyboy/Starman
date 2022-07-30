@@ -151,6 +151,7 @@
 
 ## Go 
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [thehowl/claws](https://github.com/thehowl/claws) - Awesome WebSocket CLient - an interactive command line client for testing websocket servers
@@ -195,6 +196,16 @@
 
 ## JavaScript 
 
+- [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
+- [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
+- [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
+- [nodeca/embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+- [sindresorhus/image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array
+- [lovell/sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.
+- [sindresorhus/into-stream](https://github.com/sindresorhus/into-stream) - Convert a string/promise/array/iterable/asynciterable/buffer/typedarray/arraybuffer/object into a stream
+- [sindresorhus/del](https://github.com/sindresorhus/del) - Delete files and directories
+- [rwaldron/johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup.
+- [fivdi/pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification and interrupt handling with Node.js on the Raspberry Pi
 - [Ravenbtw/mentions-server](https://github.com/Ravenbtw/mentions-server) - 
 - [Ravenbtw/mentions-ejs](https://github.com/Ravenbtw/mentions-ejs) - 
 - [IS2511/ChatIS](https://github.com/IS2511/ChatIS) - jChat is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit, and any other streaming software that supports browser sources.
@@ -412,6 +423,7 @@
 
 ## Rust 
 
+- [parcel-bundler/parcel-css](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 
@@ -436,6 +448,12 @@
 
 ## TypeScript 
 
+- [node-usb/node-usb](https://github.com/node-usb/node-usb) - Improved USB library for Node.js
+- [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
+- [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
+- [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [SevenTV/Website](https://github.com/SevenTV/Website) - [work in progress] The 7TV Web App with the Vue framework
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
