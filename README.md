@@ -452,6 +452,12 @@
 
 ## TypeScript 
 
+- [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
+- [ricardo-ch/react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Ricardo fork of https://valentinh.github.io/react-easy-crop/
+- [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
+- [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [node-usb/node-usb](https://github.com/node-usb/node-usb) - Improved USB library for Node.js
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
 - [cloudscape-design/components](https://github.com/cloudscape-design/components) - React components for Cloudscape Design System
