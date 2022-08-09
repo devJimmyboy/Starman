@@ -45,6 +45,14 @@
 
 ## C# # 
 
+- [vrchatapi/vrchatapi-csharp](https://github.com/vrchatapi/vrchatapi-csharp) - 🟣VRChat API Library for C#
+- [KorikaDEV/KorikasAvatarPlugin](https://github.com/KorikaDEV/KorikasAvatarPlugin) - 🐈 Manage your VRChat avatars with ease!
+- [kaaori/DynamicBonesStudio](https://github.com/kaaori/DynamicBonesStudio) - A useful tool for quickly setting up and manipulating dynamic bones for Unity characters
+- [PiMaker/VRChatUnityThings](https://github.com/PiMaker/VRChatUnityThings) - Random collection of Unity assets and prefabs, for use with VRChat worlds and avatars.
+- [Guribo/UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils) - Tools/Components for UDON (VRChat) based worlds. Includes private channels, reverb, auto player range adjustment, etc. for player voices.
+- [VRLabs/Avatars-3.0-Manager](https://github.com/VRLabs/Avatars-3.0-Manager) - A tool for managing playable layers and parameters for Avatars 3.0.
+- [orels1/UdonToolkit](https://github.com/orels1/UdonToolkit) - A set of purpose-built Udon Behaviours and tools to make your own
+- [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -172,6 +180,7 @@
 
 ## HTML 
 
+- [vrchatapi/vrchatapi.github.io](https://github.com/vrchatapi/vrchatapi.github.io) - ✨ VRChat API Documentation - A Community-Driven API documentation project.
 - [huibizhang/template-vite-vanilla-tailwind-v3](https://github.com/huibizhang/template-vite-vanilla-tailwind-v3) - 
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [UnlyEd/next-right-now](https://github.com/UnlyEd/next-right-now) - Flexible production-grade boilerplate with Next.js 11, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing,
@@ -199,6 +208,7 @@
 
 ## JavaScript 
 
+- [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
 - [pegjs/pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript
@@ -361,6 +371,10 @@
 
 ## Others 
 
+- [vrchatapi/specification](https://github.com/vrchatapi/specification) - ⚙️ VRChat API OpenAPI specification defining the API in a machine-readable format. This is then used for automatic generation of language-specific SDK's
+- [Markcreator/VRChat-Tools](https://github.com/Markcreator/VRChat-Tools) - A collection of useful VRChat related tools for Unity!
+- [owlboy/greatpug-public](https://github.com/owlboy/greatpug-public) - A Bar in the Metaverse (VRChat)
+- [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100 opensource avatars
 - [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [chakra-ui/awesome-chakra-ui](https://github.com/chakra-ui/awesome-chakra-ui) - A collection of Chakra UI-related awesomeness
@@ -452,6 +466,7 @@
 
 ## TypeScript 
 
+- [vrchatapi/vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript) - 🟡 VRChat API Library for JavaScript and TypeScript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [ricardo-ch/react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Ricardo fork of https://valentinh.github.io/react-easy-crop/
