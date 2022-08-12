@@ -502,7 +502,7 @@
 - [anchan828/typeorm-helpers](https://github.com/anchan828/typeorm-helpers) - 
 - [puppeteer/replay](https://github.com/puppeteer/replay) - Library that provides an API to replay and stringify recordings created using Chrome DevTools Recorder
 - [BuilderIO/builder](https://github.com/BuilderIO/builder) - Drag and drop page builder and CMS for React, Vue, Angular, and more
-- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 Open-source notification infrastructure for products
+- [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, conten
 - [Authenticator-Extension/Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
 - [Jonghakseo/chrome-extension-boilerplate-react-vite](https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite) - Chrome Extension Boilerplate with React + Vite + Typescript
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
