@@ -468,6 +468,9 @@
 
 ## TypeScript 
 
+- [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
+- [AykutSarac/jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [vrchatapi/vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript) - 🟡 VRChat API Library for JavaScript and TypeScript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
