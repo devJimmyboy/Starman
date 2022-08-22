@@ -348,6 +348,7 @@
 
 ## Jupyter Notebook 
 
+- [justinjohn0306/FakeYou-Tacotron2-Notebook](https://github.com/justinjohn0306/FakeYou-Tacotron2-Notebook) - Tacotron2 Training Notebook for FakeYou.com
 - [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples) - Code samples of LoginRadius Engineering Blog
 - [sudomaze/OnlySudo](https://github.com/sudomaze/OnlySudo) - A Discord/Twitch bot that uses AI models to do some cool stuff.
 - [mozilla/TTS](https://github.com/mozilla/TTS) - :robot: :speech_balloon: Deep learning for Text to Speech  (Discussion forum: https://discourse.mozilla.org/c/tts)
