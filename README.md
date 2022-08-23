@@ -208,6 +208,7 @@
 
 ## JavaScript 
 
+- [leunamcrack/fakeyou.js](https://github.com/leunamcrack/fakeyou.js) - A powerful library for interacting with the FakeYouAPI easily
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - A pure JavaScript implementation of git for node and browsers!
 - [gkozlenko/node-video-lib](https://github.com/gkozlenko/node-video-lib) - Node.js Video Library / MP4 & FLV parser / MP4 builder / HLS muxer
 - [sindresorhus/dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path
