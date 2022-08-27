@@ -209,6 +209,7 @@
 
 ## JavaScript 
 
+- [andywer/typed-emitter](https://github.com/andywer/typed-emitter) - 🔩 Type-safe event emitter interface for TypeScript
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
 - [bfirsh/jsnes](https://github.com/bfirsh/jsnes) - A JavaScript NES emulator.
 - [leunamcrack/fakeyou.js](https://github.com/leunamcrack/fakeyou.js) - A powerful library for interacting with the FakeYouAPI easily
@@ -517,7 +518,7 @@
 - [ccorsano/TwitchBingoExtension](https://github.com/ccorsano/TwitchBingoExtension) - Twitch Live Bingo
 - [Mahcks/twitch-emote-parser](https://github.com/Mahcks/twitch-emote-parser) - NPM package that parses Twitch chat for 3rd party, and channel emotes.
 - [pCYSl5EDgo/setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
-- [jsonhero-io/jsonhero-web](https://github.com/jsonhero-io/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
