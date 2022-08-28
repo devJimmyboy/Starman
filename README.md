@@ -382,6 +382,7 @@
 
 ## Others 
 
+- [SebLague/Blender-Shortcuts](https://github.com/SebLague/Blender-Shortcuts) - Keyboard shortcut listing for some of my Blender tutorials
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [vrchatapi/specification](https://github.com/vrchatapi/specification) - ⚙️ VRChat API OpenAPI specification defining the API in a machine-readable format. This is then used for automatic generation of language-specific SDK's
 - [Markcreator/VRChat-Tools](https://github.com/Markcreator/VRChat-Tools) - A collection of useful VRChat related tools for Unity!
@@ -417,6 +418,7 @@
 
 ## Python 
 
+- [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [IS2511/AI-TTS-Donations](https://github.com/IS2511/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and now FakeYou) AI to make bit donations have an AI voice.
 - [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.
@@ -480,6 +482,8 @@
 
 ## TypeScript 
 
+- [layerhub-io/react-design-editor](https://github.com/layerhub-io/react-design-editor) - Image, Presentation and Video editor. React design editor using fabric.js. Canva clone
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
