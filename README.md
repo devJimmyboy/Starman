@@ -151,6 +151,7 @@
 
 ## CoffeeScript 
 
+- [monsterkodi/strudl](https://github.com/monsterkodi/strudl) - structured data viewer
 - [Teamwork/node-auto-launch](https://github.com/Teamwork/node-auto-launch) - Launch applications or executables at login (Mac, Windows, and Linux)
 
 ## Dart 
@@ -484,6 +485,7 @@
 
 ## TypeScript 
 
+- [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [NotDankEnough/EmoteLib](https://github.com/NotDankEnough/EmoteLib) - Node.js library for receiving global Twitch emotes as well as Twitch channel emotes. Support for third-party providers is included.
