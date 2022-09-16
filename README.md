@@ -485,6 +485,7 @@
 
 ## TypeScript 
 
+- [joeyballentine/chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
