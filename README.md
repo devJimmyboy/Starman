@@ -113,7 +113,7 @@
 - [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
 - [unity-atoms/unity-atoms](https://github.com/unity-atoms/unity-atoms) - ⚛️ Tiny modular pieces utilizing the power of Scriptable Objects
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
-- [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity3D
+- [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - An advanced ocean system implemented in Unity
 - [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [StansAssets/com.stansassets.foundation](https://github.com/StansAssets/com.stansassets.foundation) - Collection of utility methods, design patterns, and extensions for Unity.
 - [umasteeringgroup/UMA](https://github.com/umasteeringgroup/UMA) - Unity Multipurpose Avatar
@@ -262,7 +262,6 @@
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [KaterinaLupacheva/react-progress-bar](https://github.com/KaterinaLupacheva/react-progress-bar) - Simple React progress bar component
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [styled-icons/styled-icons](https://github.com/styled-icons/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
@@ -611,6 +610,7 @@
 - [pawelmalak/flame](https://github.com/pawelmalak/flame) - Flame is self-hosted startpage for your server. Easily manage your apps and bookmarks with built-in editors.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, offline-first, reactive database for JavaScript Applications
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 - [sanity-io/sanity](https://github.com/sanity-io/sanity) - The Sanity Studio – Collaborate in real-time on structured content
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
