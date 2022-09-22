@@ -45,6 +45,7 @@
 
 ## C# # 
 
+- [Grahnz/TwitchIRC-Unity](https://github.com/Grahnz/TwitchIRC-Unity) - lightweight IRC client component for use with the Unity Engine.
 - [vrchatapi/vrchatapi-csharp](https://github.com/vrchatapi/vrchatapi-csharp) - 🟣VRChat API Library for C#
 - [KorikaDEV/KorikasAvatarPlugin](https://github.com/KorikaDEV/KorikasAvatarPlugin) - 🐈 Manage your VRChat avatars with ease!
 - [kaaori/DynamicBonesStudio](https://github.com/kaaori/DynamicBonesStudio) - A useful tool for quickly setting up and manipulating dynamic bones for Unity characters
@@ -211,6 +212,7 @@
 
 ## JavaScript 
 
+- [MarkM-dev/Twitch-Previews](https://github.com/MarkM-dev/Twitch-Previews) - Twitch Previews - Live previews when hovering over streams on twitch | A bunch of quality of life improvement features to twitch.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [andywer/typed-emitter](https://github.com/andywer/typed-emitter) - 🔩 Type-safe event emitter interface for TypeScript
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
@@ -384,6 +386,7 @@
 
 ## Others 
 
+- [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [SebLague/Blender-Shortcuts](https://github.com/SebLague/Blender-Shortcuts) - Keyboard shortcut listing for some of my Blender tutorials
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [vrchatapi/specification](https://github.com/vrchatapi/specification) - ⚙️ VRChat API OpenAPI specification defining the API in a machine-readable format. This is then used for automatic generation of language-specific SDK's
@@ -420,6 +423,8 @@
 
 ## Python 
 
+- [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
+- [joeyballentine/chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [IS2511/AI-TTS-Donations](https://github.com/IS2511/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and now FakeYou) AI to make bit donations have an AI voice.
@@ -484,13 +489,15 @@
 
 ## TypeScript 
 
+- [rfprod/nx-ng-starter](https://github.com/rfprod/nx-ng-starter) - Monorepo starter with workflow automation: Nx, Angular, Angular Elements, Electron, NodeJS, NestJS, Firebase.
+- [clarkio/vscode-twitch-highlighter](https://github.com/clarkio/vscode-twitch-highlighter) - This is a VS Code extension that will allow your Twitch chat to highlight a line of code via a command message. Example: `!line 8 server.js`. See master branch README.md for more details
+- [austin-starks/NextTrade](https://github.com/austin-starks/NextTrade) - A system that performs algorithmic trading
 - [stuyy/chat-platform-nestjs](https://github.com/stuyy/chat-platform-nestjs) - 
 - [lujakob/nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM / Prisma
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
-- [joeyballentine/chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -592,7 +599,7 @@
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
