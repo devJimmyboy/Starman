@@ -163,6 +163,7 @@
 
 ## Dart 
 
+- [tommyxchow/frosty](https://github.com/tommyxchow/frosty) - A mobile Twitch client for iOS and Android with 7TV, BetterTTV (BTTV), and FrankerFaceZ (FFZ) support. Built with Flutter.
 - [chatsen/chatsen](https://github.com/chatsen/chatsen) - Cross-platform Twitch Chat application with 3rd-party addon support!
 - [Comet-Events/comet_events](https://github.com/Comet-Events/comet_events) - ☄️ | A 📱 app that makes finding nearby events and gatherings easier!
 
@@ -218,6 +219,7 @@
 
 ## JavaScript 
 
+- [teak/puSSH](https://github.com/teak/puSSH) - The cross platform, multi-functional screenshot utility
 - [MarkM-dev/Twitch-Previews](https://github.com/MarkM-dev/Twitch-Previews) - Twitch Previews - Live previews when hovering over streams on twitch | A bunch of quality of life improvement features to twitch.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [andywer/typed-emitter](https://github.com/andywer/typed-emitter) - 🔩 Type-safe event emitter interface for TypeScript
