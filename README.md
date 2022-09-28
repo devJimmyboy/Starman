@@ -220,7 +220,7 @@
 ## JavaScript 
 
 - [teak/puSSH](https://github.com/teak/puSSH) - The cross platform, multi-functional screenshot utility
-- [MarkM-dev/Twitch-Previews](https://github.com/MarkM-dev/Twitch-Previews) - Twitch Previews - Live previews when hovering over streams on twitch | A bunch of quality of life improvement features to twitch.
+- [MarkM-dev/Previews](https://github.com/MarkM-dev/Previews) - Previews (For TTV) - Live previews when hovering over streams on twitch | A bunch of quality of life improvement features to twitch.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [andywer/typed-emitter](https://github.com/andywer/typed-emitter) - 🔩 Type-safe event emitter interface for TypeScript
 - [samuelmeuli/action-electron-builder](https://github.com/samuelmeuli/action-electron-builder) - :electron: GitHub Action for building and releasing Electron apps
