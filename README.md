@@ -433,7 +433,7 @@
 - [ContentAutomation/TwitchCompilationCreator](https://github.com/ContentAutomation/TwitchCompilationCreator) - A fully automated system that transforms Twitch clips into gaming compilations
 - [ItIckeYd/VodRecovery](https://github.com/ItIckeYd/VodRecovery) - Python script created to retrieve sub-only/deleted videos/clips from twitch.
 - [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
-- [joeyballentine/chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [IS2511/AI-TTS-Donations](https://github.com/IS2511/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and now FakeYou) AI to make bit donations have an AI voice.
@@ -494,6 +494,7 @@
 
 ## Svelte 
 
+- [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [BetterDiscord/Installer](https://github.com/BetterDiscord/Installer) - A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.
 
@@ -560,7 +561,7 @@
 - [SevenTV/Website](https://github.com/SevenTV/Website) - The 7TV Web App with the Vue framework
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - Quickest way to start a new web app with full stack typesafety
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
 - [IS2511/ChatIS-core](https://github.com/IS2511/ChatIS-core) - The core of ChatIS overlay
@@ -599,7 +600,6 @@
 - [TheoBr/yerba](https://github.com/TheoBr/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
 - [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle) - A fun Wordle clone made using React, Typescript, and Tailwind
-- [fireship-io/fireship.io](https://github.com/fireship-io/fireship.io) - Build and ship your app faster  https://fireship.io
 - [bennodev19/dronies-watch](https://github.com/bennodev19/dronies-watch) - 🐦
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [pvarentsov/iola](https://github.com/pvarentsov/iola) - 🔄 iola: Command-line socket client with REST API.
