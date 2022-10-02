@@ -500,6 +500,8 @@
 
 ## TypeScript 
 
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [Jimmyboy-dev/PeepoSings](https://github.com/Jimmyboy-dev/PeepoSings) - Mood-Oriented Music Player that categorizes music into moods. Created for Livestream-Centric Music (Think Ludwig).
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
