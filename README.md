@@ -431,7 +431,7 @@
 ## Python 
 
 - [ContentAutomation/TwitchCompilationCreator](https://github.com/ContentAutomation/TwitchCompilationCreator) - A fully automated system that transforms Twitch clips into gaming compilations
-- [ItIckeYd/VodRecovery](https://github.com/ItIckeYd/VodRecovery) - Python script created to retrieve sub-only/deleted videos/clips from twitch.
+- [ItIckeYd/VodRecovery](https://github.com/ItIckeYd/VodRecovery) - Python script created to retrieve/download sub-only/deleted videos/clips from twitch.
 - [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks (especially upscaling done by neural networks) easy, intuitive, and customizable.
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
