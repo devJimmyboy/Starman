@@ -140,7 +140,7 @@
 - [SevenTV/chatterino7](https://github.com/SevenTV/chatterino7) - Chat client for https://twitch.tv
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [Soundux/Soundux](https://github.com/Soundux/Soundux) - 🔊 A cross-platform soundboard
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV, SRT and GB28181.
 - [nodegui/nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org
 - [univrsal/spectralizer](https://github.com/univrsal/spectralizer) - Audio visualizer plugin for obs-studio
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
@@ -600,7 +600,7 @@
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [electron-vite/electron-vite-boilerplate](https://github.com/electron-vite/electron-vite-boilerplate) - 📚 A Electron + Vite boilerplate of the nature of learning(source-code of vite-plugin-electron)  / 学习性的样板工程(vite-plugin-electron源码)
 - [Gabb-c/pokenode-ts](https://github.com/Gabb-c/pokenode-ts) - A lightweight Node.js wrapper for the PokéAPI with built-in types.
-- [moodiest/vite-electron-builder-react](https://github.com/moodiest/vite-electron-builder-react) - React version of cawa-93's secure boilerplate for Electron apps with Vite and TypeScript.
+- [james-elicx/vite-electron-builder-react](https://github.com/james-elicx/vite-electron-builder-react) - React version of cawa-93's secure boilerplate for Electron apps with Vite and TypeScript.
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
