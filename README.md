@@ -339,7 +339,7 @@
 - [feathersjs-ecosystem/feathers-swagger](https://github.com/feathersjs-ecosystem/feathers-swagger) - Add documentation to your FeatherJS services and feed them to Swagger UI.
 - [CodingGarden/entropychat.app](https://github.com/CodingGarden/entropychat.app) - A discord clone made by the Coding Garden Community.
 - [mkody/twitch-emoticons](https://github.com/mkody/twitch-emoticons) - Gets Twitch, BTTV and FFZ emotes as well as parsing text to emotes!
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2022)
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [thomasjohnkane/tailwind-alpine-chrome-extension](https://github.com/thomasjohnkane/tailwind-alpine-chrome-extension) - Starter Kit for building a Web Extension with Tailwindcss & AlpineJS
 - [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
