@@ -64,7 +64,7 @@
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
-- [thefifthmatt/SoulsRandomizers](https://github.com/thefifthmatt/SoulsRandomizers) - DS3 and Sekiro Randomizers
+- [thefifthmatt/SoulsRandomizers](https://github.com/thefifthmatt/SoulsRandomizers) - DS3, Sekiro, and Elden Ring Randomizers
 - [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - *Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.
 - [jorgejgnz/HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit
 - [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC
