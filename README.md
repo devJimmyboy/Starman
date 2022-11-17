@@ -443,7 +443,7 @@
 - [rdeepak2002/reddit-place-script-2022](https://github.com/rdeepak2002/reddit-place-script-2022) - Script to draw an image onto r/place (https://www.reddit.com/r/place/)
 - [pajbot/pajbot](https://github.com/pajbot/pajbot) - Twitch moderation bot
 - [ItsDeidara/CommunityController](https://github.com/ItsDeidara/CommunityController) - https://www.twitch.tv/communitycontroller
-- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation and Keyword Spotting. Won NAACL20
+- [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - Easy-to-use Speech Toolkit including Self-Supervised Learning model, SOTA/Streaming ASR with punctuation, Streaming TTS with text frontend, Speaker Verification System, End-to-End Speech Translation a
 - [SerpentAI/SerpentAI](https://github.com/SerpentAI/SerpentAI) - Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own!
 - [Felflare/rpunct](https://github.com/Felflare/rpunct) - 📝An easy-to-use package to restore punctuation of the text.
 - [Nem4/viewerbot](https://github.com/Nem4/viewerbot) - Twitch Viewer Bot (Python + proxies)
