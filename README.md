@@ -525,7 +525,7 @@
 - [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
 - [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [iamteapott/EmoteLib](https://github.com/iamteapott/EmoteLib) - Node.js library for receiving global Twitch emotes as well as Twitch channel emotes. Support for third-party providers is included.
+- [ilotterytea/EmoteLib](https://github.com/ilotterytea/EmoteLib) - Node.js library for receiving global Twitch emotes as well as Twitch channel emotes. Support for third-party providers is included.
 - [unjs/nitro](https://github.com/unjs/nitro) - ⚗️ Build and deploy universal JavaScript servers
 - [discord/react-dnd-accessible-backend](https://github.com/discord/react-dnd-accessible-backend) - An add-on backend for `react-dnd` that provides support for keyboards and screenreaders by default.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
