@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [smogon/sprites](https://github.com/smogon/sprites) - The Smogon / Pokémon Showdown! sprite repository
 - [teak/puSSH](https://github.com/teak/puSSH) - The cross platform, multi-functional screenshot utility
 - [MarkM-dev/Previews](https://github.com/MarkM-dev/Previews) - Previews (For TTV) - Live previews when hovering over streams on twitch | A bunch of quality of life improvement features to twitch.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -230,7 +231,6 @@
 - [gkozlenko/node-video-lib](https://github.com/gkozlenko/node-video-lib) - Node.js Video Library / MP4 & FLV parser / MP4 builder / HLS muxer
 - [sindresorhus/dot-prop](https://github.com/sindresorhus/dot-prop) - Get, set, or delete a property from a nested object using a dot path
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-- [vrchatapi/specification](https://github.com/vrchatapi/specification) - ⚙️ VRChat API OpenAPI specification defining the API in a machine-readable format. This is then used for automatic generation of language-specific SDK's
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [nodemailer/nodemailer](https://github.com/nodemailer/nodemailer) - ✉️ Send e-mails with Node.JS – easy as cake!
 - [mysqljs/mysql](https://github.com/mysqljs/mysql) - A pure node.js JavaScript Client implementing the MySQL protocol.
@@ -397,6 +397,7 @@
 - [juancarlospaco/awesome-streaming-tools](https://github.com/juancarlospaco/awesome-streaming-tools) - Awesome Streaming Tools
 - [SebLague/Blender-Shortcuts](https://github.com/SebLague/Blender-Shortcuts) - Keyboard shortcut listing for some of my Blender tutorials
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [vrchatapi/specification](https://github.com/vrchatapi/specification) - ⚙️ VRChat API OpenAPI specification defining the API in a machine-readable format. This is then used for automatic generation of language-specific SDK's
 - [Markcreator/VRChat-Tools](https://github.com/Markcreator/VRChat-Tools) - A collection of useful VRChat related tools for Unity!
 - [owlboy/greatpug-public](https://github.com/owlboy/greatpug-public) - A Bar in the Metaverse (VRChat)
 - [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100 opensource avatars
