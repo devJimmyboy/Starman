@@ -258,7 +258,7 @@
 - [ryanbarr/node-streamelements](https://github.com/ryanbarr/node-streamelements) - An unofficial wrapper for the StreamElements API.
 - [j3channel/StreamElementsWidgets](https://github.com/j3channel/StreamElementsWidgets) - We've created some Widgets to use with your StreamElements overlays! Feel free to use them for your own streams!
 - [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
-- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
 - [FrankerFaceZ/FrankerFaceZ](https://github.com/FrankerFaceZ/FrankerFaceZ) - The Twitch Enhancement Suite. Get custom emotes and tons of new features you'll never want to go without.
