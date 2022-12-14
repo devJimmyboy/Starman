@@ -307,7 +307,7 @@
 - [pqina/react-filepond](https://github.com/pqina/react-filepond) - 🔌 A handy FilePond adapter component for React
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [giambaJ/jChat](https://github.com/giambaJ/jChat) - jChat is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit, and any other streaming software that supports browser sources.
-- [inlet/react-pixi](https://github.com/inlet/react-pixi) - Write PIXI apps using React declarative style
+- [pixijs/pixi-react](https://github.com/pixijs/pixi-react) - Write PIXI apps using React declarative style
 - [bndw/wifi-card](https://github.com/bndw/wifi-card) - 📶 Print a QR code for connecting to your WiFi (wificard.io)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [samme/phaser-parcel](https://github.com/samme/phaser-parcel) - A Phaser 3 game template using Parcel bundler
