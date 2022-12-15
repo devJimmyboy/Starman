@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [Mm2PL/dankerino](https://github.com/Mm2PL/dankerino) - Chat client for twitch.tv. See releases for download. Only nightlies are supported.
 - [Krombik/keysender](https://github.com/Krombik/keysender) - Node.js Desktop Automation for Windows.
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js.
 - [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
@@ -173,6 +174,7 @@
 
 ## Go 
 
+- [Mm2PL/justgrep](https://github.com/Mm2PL/justgrep) - grep for justlog
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -401,7 +403,7 @@
 - [vrchatapi/specification](https://github.com/vrchatapi/specification) - ⚙️ VRChat API OpenAPI specification defining the API in a machine-readable format. This is then used for automatic generation of language-specific SDK's
 - [Markcreator/VRChat-Tools](https://github.com/Markcreator/VRChat-Tools) - A collection of useful VRChat related tools for Unity!
 - [owlboy/greatpug-public](https://github.com/owlboy/greatpug-public) - A Bar in the Metaverse (VRChat)
-- [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100 opensource avatars
+- [PolygonalMind/100Avatars](https://github.com/PolygonalMind/100Avatars) - 100Avatars - 200 open-source Avatars
 - [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
