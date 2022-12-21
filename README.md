@@ -504,6 +504,7 @@
 
 ## TypeScript 
 
+- [NimitzDEV/nestjs-electron-ipc-transport](https://github.com/NimitzDEV/nestjs-electron-ipc-transport) - Integrate NestJS into electron application using IPC messages
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
