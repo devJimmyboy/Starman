@@ -661,7 +661,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
-- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ⚡️ Chakra UI,  ⚛️  React Query & 🐜  Formiz — From the 🐻  BearStudio Team
+- [BearStudio/start-ui-web](https://github.com/BearStudio/start-ui-web) - 🚀 Start UI [web] is an opinionated UI starter with ⚛️  React, ▲ NextJS,  ⚡️ Chakra UI,  ⚛️  TanStack Query & 🐜  Formiz — From the 🐻  BearStudio Team
 - [PakL/TTVStreamerTool](https://github.com/PakL/TTVStreamerTool) - TTVST is an application aimed at Twitch streamer.
 - [joaogamarra/clips-autoplay](https://github.com/joaogamarra/clips-autoplay) - Continuous video player for Twitch Clips
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
