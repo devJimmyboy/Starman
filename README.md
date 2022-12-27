@@ -509,11 +509,13 @@
 
 ## TypeScript 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
+- [zenorocha/react-email](https://github.com/zenorocha/react-email) - 💌 Build and send emails using React
 - [NimitzDEV/nestjs-electron-ipc-transport](https://github.com/NimitzDEV/nestjs-electron-ipc-transport) - Integrate NestJS into electron application using IPC messages
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
 - [rrweb-io/rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - 
+- [LegendApp/legend-state](https://github.com/LegendApp/legend-state) - Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence
 - [konvajs/konva](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
