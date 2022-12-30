@@ -221,6 +221,7 @@
 
 ## JavaScript 
 
+- [electron-userland/electron-json-storage](https://github.com/electron-userland/electron-json-storage) - :package: Easily write and read user settings in Electron apps
 - [nopecha-ai/nopecha-nodejs](https://github.com/nopecha-ai/nopecha-nodejs) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA in Node.js.
 - [nopecha-ai/nopecha-extension](https://github.com/nopecha-ai/nopecha-extension) - Automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA with a browser extension.
 - [smogon/sprites](https://github.com/smogon/sprites) - The Smogon / Pokémon Showdown! sprite repository
