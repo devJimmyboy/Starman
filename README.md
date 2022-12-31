@@ -590,7 +590,7 @@
 - [ccorsano/TwitchBingoExtension](https://github.com/ccorsano/TwitchBingoExtension) - Twitch Live Bingo
 - [Mahcks/twitch-emote-parser](https://github.com/Mahcks/twitch-emote-parser) - NPM package that parses Twitch chat for 3rd party, and channel emotes.
 - [pCYSl5EDgo/setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
-- [apihero-run/jsonhero-web](https://github.com/apihero-run/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
