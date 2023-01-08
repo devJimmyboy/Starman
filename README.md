@@ -508,7 +508,7 @@
 ## TypeScript 
 
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
-- [zenorocha/react-email](https://github.com/zenorocha/react-email) - 💌 Build and send emails using React
+- [resendlabs/react-email](https://github.com/resendlabs/react-email) - 💌 Build and send emails using React
 - [NimitzDEV/nestjs-electron-ipc-transport](https://github.com/NimitzDEV/nestjs-electron-ipc-transport) - Integrate NestJS into electron application using IPC messages
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A low-level toolkit to create floating elements. Tooltips, popovers, dropdowns, and more
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Advanced and powerful React components for complex use-cases.
