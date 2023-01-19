@@ -219,6 +219,7 @@
 
 ## JavaScript 
 
+- [OddPvP/unblockedgames](https://github.com/OddPvP/unblockedgames) - Unblocked games website --- 1v1.lol ~ slope ~ RetroBowl ~ Odd Games ~ Tetris ~ Sans ~ Pong
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [electron-userland/electron-json-storage](https://github.com/electron-userland/electron-json-storage) - :package: Easily write and read user settings in Electron apps
