@@ -14,6 +14,7 @@
 - [Dart](#dart)
 - [GLSL](#glsl)
 - [Go](#go)
+- [HLSL](#hlsl)
 - [HTML](#html)
 - [Handlebars](#handlebars)
 - [Java](#java)
@@ -61,7 +62,6 @@
 - [Guribo/UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils) - Tools/Components for UDON (VRChat) based worlds. Includes private channels, reverb, auto player range adjustment, etc. for player voices.
 - [VRLabs/Avatars-3.0-Manager](https://github.com/VRLabs/Avatars-3.0-Manager) - A tool for managing playable layers and parameters for Avatars 3.0.
 - [orels1/UdonToolkit](https://github.com/orels1/UdonToolkit) - A set of purpose-built Udon Behaviours and tools to make your own
-- [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
@@ -192,6 +192,10 @@
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 
+## HLSL 
+
+- [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition
+
 ## HTML 
 
 - [vrchatapi/vrchatapi.github.io](https://github.com/vrchatapi/vrchatapi.github.io) - ✨ VRChat API Documentation - A Community-Driven API documentation project.
@@ -219,6 +223,7 @@
 
 ## JavaScript 
 
+- [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [OddPvP/unblockedgames](https://github.com/OddPvP/unblockedgames) - Unblocked games website --- 1v1.lol ~ slope ~ RetroBowl ~ Odd Games ~ Tetris ~ Sans ~ Pong
 - [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
