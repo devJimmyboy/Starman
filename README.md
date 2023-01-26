@@ -222,6 +222,7 @@
 
 ## JavaScript 
 
+- [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [studio-freight/lenis](https://github.com/studio-freight/lenis) - How smooth scroll should be
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [OddPvP/unblockedgames](https://github.com/OddPvP/unblockedgames) - Unblocked games website --- 1v1.lol ~ slope ~ RetroBowl ~ Odd Games ~ Tetris ~ Sans ~ Pong
@@ -521,6 +522,8 @@
 
 ## TypeScript 
 
+- [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
+- [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [shadcn/taxonomy](https://github.com/shadcn/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
