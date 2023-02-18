@@ -523,6 +523,8 @@
 
 ## TypeScript 
 
+- [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
+- [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
 - [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
