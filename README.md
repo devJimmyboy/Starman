@@ -521,6 +521,8 @@
 
 ## Swift 
 
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing Github Copilot Xcode Source Editor Extension
+- [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
 - [liyong03/YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - Swift implementation of YLGIFImage
