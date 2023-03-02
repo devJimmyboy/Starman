@@ -35,6 +35,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 - [Zig](#zig)
 
 ## Brightscript 
@@ -734,7 +735,6 @@
 - [joe-sky/jsx-sfc](https://github.com/joe-sky/jsx-sfc) - A SFC like React function component API for managing CSS-in-JS and static members.
 - [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks) - React Hooks for Firebase.
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
-- [SevenTV/Extension](https://github.com/SevenTV/Extension) - A Web Extension implementing 7TV emotes and other features for integration in Twitch and YouTube chat. ⚠️ A full rewrite is in progress, avoid further contributions to this repo. See https://github.co
 - [joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate](https://github.com/joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate) - This is a boilerplate build with Vite, React 18, TypeScript, Vitest, Testing Library, TailwindCSS 3, Eslint and Prettier.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [yatki/vscode-surround](https://github.com/yatki/vscode-surround) - 🔥A simple yet powerful extension to add wrapper templates around your code blocks
@@ -767,6 +767,10 @@
 ## Vim Script 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## Vue 
+
+- [SevenTV/Extension](https://github.com/SevenTV/Extension) - A Web Extension implementing 7TV emotes and other features for integration in Twitch and YouTube chat. ⚠️ A full rewrite is in progress, avoid further contributions to this repo. See https://github.co
 
 ## Zig 
 
