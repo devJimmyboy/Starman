@@ -534,7 +534,7 @@
 - [hmlongco/Factory](https://github.com/hmlongco/Factory) - A new approach to Container-Based Dependency Injection for Swift and SwiftUI.
 - [SvenTiigi/WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features 📱
 - [apple/swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift
-- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing Github Copilot Xcode Source Editor Extension
+- [intitni/CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot Xcode Source Editor Extension
 - [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
 - [shogo4405/HaishinKit.swift](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS and tvOS.
 - [kean/Nuke](https://github.com/kean/Nuke) - Image loading system
@@ -547,6 +547,7 @@
 
 ## TypeScript 
 
+- [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
@@ -614,7 +615,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [vrchatapi/vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript) - 🟡 VRChat API Library for JavaScript and TypeScript
