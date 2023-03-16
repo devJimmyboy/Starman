@@ -772,7 +772,7 @@
 
 ## Vue 
 
-- [SevenTV/Extension](https://github.com/SevenTV/Extension) - A Web Extension implementing 7TV emotes and other features for integration in Twitch and YouTube chat. ⚠️ A full rewrite is in progress, avoid further contributions to this repo. See https://github.co
+- [SevenTV/Extension](https://github.com/SevenTV/Extension) - The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch & YouTube
 
 ## Zig 
 
