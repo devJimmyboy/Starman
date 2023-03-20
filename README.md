@@ -286,7 +286,7 @@
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [KaterinaLupacheva/react-progress-bar](https://github.com/KaterinaLupacheva/react-progress-bar) - Simple React progress bar component
-- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [styled-icons/styled-icons](https://github.com/styled-icons/styled-icons) - 💅 Popular icon packs like Font Awesome, Material Design, and Octicons, available as React Styled Components
 - [SwapnilSoni1999/spotify-dl](https://github.com/SwapnilSoni1999/spotify-dl) - Spotify Downloader and alternative of Spotdl(python) tool made in NodeJS based on youtube-dl
@@ -451,6 +451,7 @@
 
 ## Python 
 
+- [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [OpposedDeception/twitchplace-bot](https://github.com/OpposedDeception/twitchplace-bot) - A bot that places pixels on twitch.tv/place. It can place on other pixel-battle-based channels as well. Although, I didn't test that.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
