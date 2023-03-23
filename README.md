@@ -329,7 +329,6 @@
 - [kentcdodds/react-fundamentals](https://github.com/kentcdodds/react-fundamentals) - Material for my React Fundamentals Workshop
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [photonstorm/phaser](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-- [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [spicetify/spicetify-cli](https://github.com/spicetify/spicetify-cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -746,6 +745,7 @@
 - [wufe/react-particles-js](https://github.com/wufe/react-particles-js) - Particles.js for React
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator.
+- [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
