@@ -549,6 +549,7 @@
 
 ## TypeScript 
 
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - The worlds fastest React UI kit also happens to work on Native + Web seamlessly 🙏
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
@@ -698,7 +699,7 @@
 - [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - 
 - [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A Chakra UI themed wrapper for the popular library React Select
 - [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer) - react-markdown renderer for people who using Chakra-UI's CSSReset component
-- [mantinedev/mantine](https://github.com/mantinedev/mantine) - React components library with native dark theme support
+- [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
