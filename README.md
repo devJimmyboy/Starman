@@ -53,6 +53,7 @@
 
 ## C# # 
 
+- [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [lexonegit/Unity-Twitch-Chat](https://github.com/lexonegit/Unity-Twitch-Chat) - Lightweight and easy-to-use Twitch IRC client for Unity.
 - [ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon) - A Toon Shader in Unity Universal Render Pipeline.
 - [sergioabreu-g/active-ragdolls](https://github.com/sergioabreu-g/active-ragdolls) - Active Ragdolls in Unity
@@ -595,7 +596,7 @@
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - A tiny little drawing app.
 - [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
-- [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
+- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [ilotterytea/EmoteLib](https://github.com/ilotterytea/EmoteLib) - Node.js library for receiving global Twitch emotes as well as Twitch channel emotes. Support for third-party providers is included.
 - [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
