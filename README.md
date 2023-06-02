@@ -449,6 +449,7 @@
 
 ## PHP 
 
+- [Rehike/Rehike](https://github.com/Rehike/Rehike) - A custom YouTube server that aims to faithfully restore the old frontend and layout.
 - [Decicus/DecAPI](https://github.com/Decicus/DecAPI) - API provider/proxy that provides plaintext responses - Documentation: https://docs.decapi.me/
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 
