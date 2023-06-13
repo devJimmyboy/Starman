@@ -71,7 +71,7 @@
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
 - [thefifthmatt/SoulsRandomizers](https://github.com/thefifthmatt/SoulsRandomizers) - DS3, Sekiro, and Elden Ring Randomizers
-- [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - *Beta* - An example of how to use the Tilia packages to create great content with VRTK v4.
+- [ExtendRealityLtd/VRTK](https://github.com/ExtendRealityLtd/VRTK) - An example of how to use the Tilia packages to create great content with VRTK v4.
 - [jorgejgnz/HPTK](https://github.com/jorgejgnz/HPTK) - Hand Physics Toolkit
 - [videolan/libvlcsharp](https://github.com/videolan/libvlcsharp) - Cross-platform .NET/Mono bindings for LibVLC
 - [CandyCoded/CandyCoded](https://github.com/CandyCoded/CandyCoded) - 🍭 Custom Unity Components that are delightful
@@ -669,7 +669,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [openid/AppAuth-JS](https://github.com/openid/AppAuth-JS) - JavaScript client SDK for communicating with OAuth 2.0 and OpenID Connect providers.
 - [tfarras/nestjs-firebase-auth](https://github.com/tfarras/nestjs-firebase-auth) - Firebase Authentication Strategy for NestJS Passport Integration
-- [Hoishin/use-nodecg](https://github.com/Hoishin/use-nodecg) - React Custom Hooks for NodeCG
+- [nodecg/use-nodecg](https://github.com/nodecg/use-nodecg) - React Custom Hooks for NodeCG
 - [meganrogge/template-string-converter](https://github.com/meganrogge/template-string-converter) - Autocorrect from quotes to backticks
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
