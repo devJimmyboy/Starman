@@ -621,7 +621,7 @@
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [amplication/amplication](https://github.com/amplication/amplication) - Amplication is a flexible open-source Node.js app development platform. It helps you build production-ready Node.js backend without wasting time on repetitive coding.
+- [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
@@ -784,7 +784,7 @@
 
 ## Vue 
 
-- [SevenTV/Extension](https://github.com/SevenTV/Extension) - The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch & YouTube
+- [SevenTV/Extension](https://github.com/SevenTV/Extension) - The Web Extension for 7TV, bringing new features, emotes, vanity and performance to Twitch, Kick & YouTube
 
 ## Zig 
 
