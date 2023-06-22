@@ -23,6 +23,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -359,7 +360,6 @@
 - [mkody/twitch-emoticons](https://github.com/mkody/twitch-emoticons) - Gets Twitch, BTTV, FFZ and 7TV emotes as well as parsing text to emotes!
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
 - [thomasjohnkane/tailwind-alpine-chrome-extension](https://github.com/thomasjohnkane/tailwind-alpine-chrome-extension) - Starter Kit for building a Web Extension with Tailwindcss & AlpineJS
-- [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 - [wesbos/Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL
 - [greatsuspender/thegreatsuspender](https://github.com/greatsuspender/thegreatsuspender) - A chrome extension for suspending all tabs to free up memory
 - [sindresorhus/open](https://github.com/sindresorhus/open) - Open stuff like URLs, files, executables. Cross-platform.
@@ -400,6 +400,10 @@
 - [Zamiell/isaac-among-us](https://github.com/Zamiell/isaac-among-us) - 
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
+
+## MDX 
+
+- [webpack/webpack.js.org](https://github.com/webpack/webpack.js.org) - Repository for webpack documentation and more!
 
 ## Makefile 
 
