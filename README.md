@@ -232,6 +232,7 @@
 
 ## JavaScript 
 
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [BarryCarlyon/twitch_extension_tools](https://github.com/BarryCarlyon/twitch_extension_tools) - Tools for Twitch Developers to assist them working on a Twitch Extension
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
@@ -461,6 +462,8 @@
 
 ## Python 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+- [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
 - [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro.
 - [OpposedDeception/twitchplace-bot](https://github.com/OpposedDeception/twitchplace-bot) - A bot that places pixels on twitch.tv/place. It can place on other pixel-battle-based channels as well. Although, I didn't test that.
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
