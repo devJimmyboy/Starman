@@ -711,7 +711,7 @@
 - [projen/projen](https://github.com/projen/projen) - A new generation of project generators
 - [nestjs/nest-cli](https://github.com/nestjs/nest-cli) - CLI tool for Nest applications 🍹
 - [soulsam480/vite-electron-react-starter](https://github.com/soulsam480/vite-electron-react-starter) - Vite 2.x + Electron@latest + React@latest + Typescript template. fork of @cawa-93/vite-electron-builder for react.
-- [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - 
+- [IsaacScript/isaacscript](https://github.com/IsaacScript/isaacscript) - IsaacScript is a tool to help you create Binding of Isaac: Repentance mods using TypeScript.
 - [csandman/chakra-react-select](https://github.com/csandman/chakra-react-select) - A Chakra UI themed wrapper for the popular library React Select
 - [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer) - react-markdown renderer for people who using Chakra-UI's CSSReset component
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
