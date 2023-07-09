@@ -270,7 +270,6 @@
 - [Ravenbtw/mentions-ejs](https://github.com/Ravenbtw/mentions-ejs) - 
 - [IS2511/ChatIS-v2-legacy](https://github.com/IS2511/ChatIS-v2-legacy) - jChat is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit, and any other streaming software that supports browser sources.
 - [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
-- [Mahcks/YEAHBUTDVDs](https://github.com/Mahcks/YEAHBUTDVDs) - Generate a DVD-style bouncing emote overlay for your Twitch stream with a single click.
 - [openupm/openupm](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too.
 - [Supinic/supibot](https://github.com/Supinic/supibot) - Multiplatform, utility & novelty chat bot.
@@ -657,6 +656,7 @@
 - [IS2511/ChatIS-core](https://github.com/IS2511/ChatIS-core) - The core of ChatIS overlay
 - [ccorsano/TwitchBingoExtension](https://github.com/ccorsano/TwitchBingoExtension) - Twitch Live Bingo
 - [Mahcks/twitch-emote-parser](https://github.com/Mahcks/twitch-emote-parser) - NPM package that parses Twitch chat for 3rd party, and channel emotes.
+- [omegastreamtv/YEAHBUTDVDs](https://github.com/omegastreamtv/YEAHBUTDVDs) - Generate a DVD-style bouncing emote overlay for your Twitch stream with a single click.
 - [pCYSl5EDgo/setup-unity](https://github.com/pCYSl5EDgo/setup-unity) - Set up your GitHub Actions workflow with a specific version of the Unity Editor
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
