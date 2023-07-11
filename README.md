@@ -383,6 +383,7 @@
 
 ## Jupyter Notebook 
 
+- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [justinjohn0306/FakeYou-Tacotron2-Notebook](https://github.com/justinjohn0306/FakeYou-Tacotron2-Notebook) - Tacotron2 Training Notebook for FakeYou.com
 - [LoginRadius/engineering-blog-samples](https://github.com/LoginRadius/engineering-blog-samples) - Code samples of LoginRadius Engineering Blog
 - [ma7dev/OnlySudo](https://github.com/ma7dev/OnlySudo) - A Discord/Twitch bot that uses AI models to do some cool stuff.
@@ -469,7 +470,6 @@
 - [minimaxir/textgenrnn](https://github.com/minimaxir/textgenrnn) - Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.
 - [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [neonbjb/tortoise-tts](https://github.com/neonbjb/tortoise-tts) - A multi-voice TTS system trained with an emphasis on quality
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers. For access to our API, please email us at contact@unitary.
 - [ContentAutomation/TwitchCompilationCreator](https://github.com/ContentAutomation/TwitchCompilationCreator) - A fully automated system that transforms Twitch clips into gaming compilations
@@ -769,7 +769,7 @@
 - [boardgameio/boardgame.io](https://github.com/boardgameio/boardgame.io) - State Management and Multiplayer Networking for Turn-Based Games
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [rive-app/rive-react](https://github.com/rive-app/rive-react) - React runtime for Rive
-- [luukdv/hamburger-react](https://github.com/luukdv/hamburger-react) - Animated hamburger menu icons for React (1.5 KB) 🍔
+- [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React (1.5 KB) 🍔
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [lunahq/react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles
 - [with-heart/chakra-formik-experiment](https://github.com/with-heart/chakra-formik-experiment) - An experiment for tight-knit Chakra+Formik integration with a familiar API
