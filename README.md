@@ -287,7 +287,6 @@
 - [dynastic/place](https://github.com/dynastic/place) - An open-source recreation of Reddit's /r/place.
 - [ccampbell/mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript
 - [kittykatattack/sound.js](https://github.com/kittykatattack/sound.js) - A micro-library to load, play and generate sound effects and music for games and interactive applications
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
 - [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
@@ -683,6 +682,7 @@
 - [Gabb-c/pokenode-ts](https://github.com/Gabb-c/pokenode-ts) - A lightweight Node.js wrapper for the PokéAPI with built-in types.
 - [james-elicx/vite-electron-builder-react](https://github.com/james-elicx/vite-electron-builder-react) - React version of cawa-93's secure boilerplate for Electron apps with Vite and TypeScript.
 - [electron-vite/electron-vite-react](https://github.com/electron-vite/electron-vite-react) - :electron: Electron + Vite + React + Sass boilerplate.
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
