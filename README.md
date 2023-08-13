@@ -225,7 +225,7 @@
 ## Java 
 
 - [plasmoapp/plasmo-voice](https://github.com/plasmoapp/plasmo-voice) - Proximity voice сhat mod for Minecraft
-- [PaperMC/Paper](https://github.com/PaperMC/Paper) - High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
+- [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, 
 - [OGSegu/Twitch-View-Bot](https://github.com/OGSegu/Twitch-View-Bot) - First open-source really working view bot for Twitch
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
