@@ -153,6 +153,7 @@
 - [obsproject/obs-browser](https://github.com/obsproject/obs-browser) - CEF-based OBS Studio browser plugin
 - [sc0ty/subsync](https://github.com/sc0ty/subsync) - Subtitle Speech Synchronizer
 - [o3de/o3de](https://github.com/o3de/o3de) - Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [SeriousCache/UABE](https://github.com/SeriousCache/UABE) - Asset Bundle Extractor
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
@@ -228,7 +229,6 @@
 - [PaperMC/Paper](https://github.com/PaperMC/Paper) - The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies
 - [MCreator/MCreator](https://github.com/MCreator/MCreator) - MCreator is software used to make Minecraft Java Edition mods, Bedrock Edition Add-Ons, and data packs using visual graphical programming or integrated IDE. It is used worldwide by Minecraft players, 
 - [OGSegu/Twitch-View-Bot](https://github.com/OGSegu/Twitch-View-Bot) - First open-source really working view bot for Twitch
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 
 ## JavaScript 
 
