@@ -348,7 +348,6 @@
 - [99x/boilerplatejs](https://github.com/99x/boilerplatejs) - Your own boilerplate code to start your next big javascript project. We incorporate the best design practices with best in market open source libraries.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
-- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [glortho/react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
@@ -770,6 +769,7 @@
 - [cyntler/hamburger-react](https://github.com/cyntler/hamburger-react) - Animated hamburger menu icons for React.js weighs only 1.5 KB.
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [lunahq/react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles
+- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [with-heart/chakra-formik-experiment](https://github.com/with-heart/chakra-formik-experiment) - An experiment for tight-knit Chakra+Formik integration with a familiar API
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
