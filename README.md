@@ -510,7 +510,6 @@
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 
@@ -647,6 +646,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [SevenTV/Website](https://github.com/SevenTV/Website) - The 7TV Web App with the Vue framework
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
