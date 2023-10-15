@@ -129,6 +129,7 @@
 - [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
 - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 - [StansAssets/com.stansassets.foundation](https://github.com/StansAssets/com.stansassets.foundation) - Collection of utility methods, design patterns, and extensions for Unity.
+- [baffler/Transparent-Twitch-Chat-Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Twitch chat on top of windowed games for single monitor streamers
 - [umasteeringgroup/UMA](https://github.com/umasteeringgroup/UMA) - Unity Multipurpose Avatar
 - [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
 - [Tayx94/graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
@@ -214,7 +215,6 @@
 - [htr-tech/zphisher](https://github.com/htr-tech/zphisher) - An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [5E7EN/TTS-Emulator](https://github.com/5E7EN/TTS-Emulator) - Online emulator for the Brian TTS voice by StreamElements
-- [baffler/Transparent-Twitch-Chat-Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Twitch chat on top of windowed games for single monitor streamers
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [PHLAK/presentation](https://github.com/PHLAK/presentation) - Presentation template using reveal.js + Tailwind CSS
 
