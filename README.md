@@ -649,7 +649,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [esbuild-kit/tsx](https://github.com/esbuild-kit/tsx) - ⚡️ TypeScript Execute (tsx): Node.js enhanced with esbuild to run TypeScript & ESM
+- [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [IS2511/ChatIS-core](https://github.com/IS2511/ChatIS-core) - The core of ChatIS overlay
 - [ccorsano/TwitchBingoExtension](https://github.com/ccorsano/TwitchBingoExtension) - Twitch Live Bingo
 - [Mahcks/twitch-emote-parser](https://github.com/Mahcks/twitch-emote-parser) - NPM package that parses Twitch chat for 3rd party, and channel emotes.
