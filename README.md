@@ -585,7 +585,7 @@
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [Jimmyboy-dev/PeepoSings](https://github.com/Jimmyboy-dev/PeepoSings) - Mood-Oriented Music Player that categorizes music into moods. Created for Livestream-Centric Music (Think Ludwig).
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
