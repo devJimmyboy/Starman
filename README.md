@@ -773,7 +773,7 @@
 - [with-heart/chakra-formik-experiment](https://github.com/with-heart/chakra-formik-experiment) - An experiment for tight-knit Chakra+Formik integration with a familiar API
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
-- [sarneeh/reaptcha](https://github.com/sarneeh/reaptcha) - Google reCAPTCHA v2 for React
+- [jsardev/reaptcha](https://github.com/jsardev/reaptcha) - Google reCAPTCHA v2 for React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [pixijs/spine](https://github.com/pixijs/spine) - Pixi.js plugin that enables Spine support.
 - [pixijs/particle-emitter](https://github.com/pixijs/particle-emitter) - A particle system for PixiJS
