@@ -348,7 +348,6 @@
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [nosir/cleave.js](https://github.com/nosir/cleave.js) - Format input text content when you are typing...
 - [glortho/react-keydown](https://github.com/glortho/react-keydown) - Lightweight keydown wrapper for React components
-- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [gabrielbull/react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS High Sierra and Windows 10
 - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
@@ -470,7 +469,7 @@
 - [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
 - [unitaryai/detoxify](https://github.com/unitaryai/detoxify) - Trained models & code to predict toxic comments on all 3 Jigsaw Toxic Comment Challenges. Built using ⚡ Pytorch Lightning and 🤗 Transformers. For access to our API, please email us at contact@unitary.
 - [ContentAutomation/TwitchCompilationCreator](https://github.com/ContentAutomation/TwitchCompilationCreator) - A fully automated system that transforms Twitch clips into gaming compilations
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [offish/twitchtube](https://github.com/offish/twitchtube) - Twitch YouTube bot. Automatically make video compilations of the most viewed Twitch clips and upload them to YouTube using Python 3.
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [keylase/nvidia-patch](https://github.com/keylase/nvidia-patch) - This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.
@@ -510,7 +509,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 
 ## ShaderLab 
 
@@ -770,6 +769,7 @@
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [lunahq/react-open-doodles](https://github.com/lunahq/react-open-doodles) - A Free Set of Sketchy Illustrations provided by opendoodles
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
+- [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [with-heart/chakra-formik-experiment](https://github.com/with-heart/chakra-formik-experiment) - An experiment for tight-knit Chakra+Formik integration with a familiar API
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
