@@ -626,7 +626,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [vrchatapi/vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript) - 🟡 VRChat API Library for JavaScript and TypeScript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
