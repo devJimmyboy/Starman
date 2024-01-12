@@ -737,7 +737,7 @@
 - [anubra266/choc-ui](https://github.com/anubra266/choc-ui) - Prebuilt ⭐⭐⭐⭐⭐ Chakra UI Higher Order Components
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [helloitsdani/nodecg-twitchie](https://github.com/helloitsdani/nodecg-twitchie) - 🤖💜 Twitchie makes it easy to get all your Twitch channel, stream, and chat information in NodeCG!
-- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [sammwyy/twitch-fetcher](https://github.com/sammwyy/twitch-fetcher) - Fetch Twitch channel data and emotes (Includes BTTV, FFZ and 7TV)
 - [hauptrolle/chakra-templates](https://github.com/hauptrolle/chakra-templates) - A growing collection of responsive Chakra UI Templates ready to drop into your React project.
