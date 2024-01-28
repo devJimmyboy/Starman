@@ -135,7 +135,7 @@
 - [Tayx94/graphy](https://github.com/Tayx94/graphy) - Graphy is the ultimate, easy to use, feature packed FPS counter, stats monitor and debugger for your Unity project.
 - [mandersson1024/ASCII-Shader](https://github.com/mandersson1024/ASCII-Shader) - An ASCII camera effect for Unity
 - [Kink3d/kShading](https://github.com/Kink3d/kShading) - Shading models for Unity’s Universal Render Pipeline.
-- [PhannGor/unity3d-rainbow-folders](https://github.com/PhannGor/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
+- [Borod4r/unity3d-rainbow-folders](https://github.com/Borod4r/unity3d-rainbow-folders) - This asset allows you to set custom icons for any folder in unity project browser.
 - [sabresaurus/SabreCSG](https://github.com/sabresaurus/SabreCSG) - Level design tools for Unity
 
 ## C++ 
@@ -597,7 +597,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
