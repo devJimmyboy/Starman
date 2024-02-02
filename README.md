@@ -598,7 +598,7 @@
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [davideicardi/live-plugin-manager](https://github.com/davideicardi/live-plugin-manager) - Plugin manager and installer for Node.JS
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
