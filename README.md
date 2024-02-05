@@ -228,7 +228,6 @@
 ## JavaScript 
 
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- [Rehike/Rehike](https://github.com/Rehike/Rehike) - A custom YouTube server that aims to faithfully restore the old frontend and layout.
 - [BarryCarlyon/twitch_extension_tools](https://github.com/BarryCarlyon/twitch_extension_tools) - Tools for Twitch Developers to assist them working on a Twitch Extension
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
@@ -450,6 +449,7 @@
 
 ## PHP 
 
+- [Rehike/Rehike](https://github.com/Rehike/Rehike) - A custom YouTube server that aims to faithfully restore the old frontend and layout.
 - [Decicus/DecAPI](https://github.com/Decicus/DecAPI) - API provider/proxy that provides plaintext responses - Documentation: https://docs.decapi.me/
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 
