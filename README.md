@@ -602,7 +602,7 @@
 - [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [ilotterytea/EmoteLib](https://github.com/ilotterytea/EmoteLib) - Node.js library for receiving global Twitch emotes as well as Twitch channel emotes. Support for third-party providers is included.
-- [unjs/nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers. The open engine powering Nuxt and open to everyone.
+- [unjs/nitro](https://github.com/unjs/nitro) - Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 - [discord/react-dnd-accessible-backend](https://github.com/discord/react-dnd-accessible-backend) - An add-on backend for `react-dnd` that provides support for keyboards and screenreaders by default.
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
