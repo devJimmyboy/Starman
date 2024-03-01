@@ -326,6 +326,7 @@
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [samme/phaser-parcel](https://github.com/samme/phaser-parcel) - A Phaser 3 game template using Parcel bundler
 - [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- [epicweb-dev/react-fundamentals](https://github.com/epicweb-dev/react-fundamentals) - Material for my React Fundamentals Workshop
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
@@ -755,7 +756,6 @@
 - [codeoverflow-org/nodecg-io](https://github.com/codeoverflow-org/nodecg-io) - A NodeCG-bundle which implements Social Media API's in the NodeCG framework
 - [wufe/react-particles-js](https://github.com/wufe/react-particles-js) - Particles.js for React
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
-- [epicweb-dev/react-fundamentals](https://github.com/epicweb-dev/react-fundamentals) - Material for my React Fundamentals Workshop
 - [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown) - Pokémon battle simulator.
 - [nodecg/nodecg](https://github.com/nodecg/nodecg) - Create broadcast graphics using Node.js and a browser
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
