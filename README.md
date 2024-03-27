@@ -124,7 +124,7 @@
 - [Facepunch/Rust.Community](https://github.com/Facepunch/Rust.Community) - Community Entity to fill Server Side modder requests
 - [Meowmaritus/DSAnimStudio](https://github.com/Meowmaritus/DSAnimStudio) - Direct3D-Accelerated Dark Souls TAE Editor
 - [lay295/TwitchDownloader](https://github.com/lay295/TwitchDownloader) - Twitch VOD/Clip Downloader - Chat Download/Render/Replay
-- [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity.
+- [keenanwoodall/Deform](https://github.com/keenanwoodall/Deform) - A fully-featured deformer system for Unity that lets you stack effects to animate models in real-time
 - [unity-atoms/unity-atoms](https://github.com/unity-atoms/unity-atoms) - ⚛️ Tiny modular pieces utilizing the power of Scriptable Objects
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
@@ -503,6 +503,7 @@
 
 ## Rust 
 
+- [boring-nick/rustlog](https://github.com/boring-nick/rustlog) - Twitch logging service inspired by justlog
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
