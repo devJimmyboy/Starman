@@ -261,7 +261,7 @@
 - [fivdi/pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification and interrupt handling with Node.js on the Raspberry Pi
 - [Ravenbtw/mentions-server](https://github.com/Ravenbtw/mentions-server) - 
 - [Ravenbtw/mentions-ejs](https://github.com/Ravenbtw/mentions-ejs) - 
-- [IS2511/ChatIS-v2-legacy](https://github.com/IS2511/ChatIS-v2-legacy) - jChat is an overlay that allows you to show your Twitch chat on screen with OBS, XSplit, and any other streaming software that supports browser sources.
+- [IS2511/ChatIS-v2](https://github.com/IS2511/ChatIS-v2) - ChatIS is a Twitch chat overlay for OBS
 - [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5) - Replace Strapi default WYSIWYG editor with enhanced build of CKEditor 5
 - [openupm/openupm](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too.
