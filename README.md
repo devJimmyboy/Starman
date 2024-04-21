@@ -27,6 +27,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [ShaderLab](#shaderlab)
@@ -53,7 +54,6 @@
 
 ## C# # 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [lexonegit/Unity-Twitch-Chat](https://github.com/lexonegit/Unity-Twitch-Chat) - Lightweight and easy-to-use Twitch IRC client for Unity.
 - [ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon) - A Toon Shader in Unity Universal Render Pipeline.
@@ -449,6 +449,10 @@
 - [Decicus/DecAPI](https://github.com/Decicus/DecAPI) - API provider/proxy that provides plaintext responses - Documentation: https://docs.decapi.me/
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
 
+## PowerShell 
+
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+
 ## Python 
 
 - [OpenTalker/video-retalking](https://github.com/OpenTalker/video-retalking) - [SIGGRAPH Asia 2022] VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
@@ -580,7 +584,7 @@
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [Jimmyboy-dev/PeepoSings](https://github.com/Jimmyboy-dev/PeepoSings) - Mood-Oriented Music Player that categorizes music into moods. Created for Livestream-Centric Music (Think Ludwig).
-- [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
+- [xdevplatform/twitter-api-typescript-sdk](https://github.com/xdevplatform/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -669,7 +673,7 @@
 - [nodecg/react-hooks](https://github.com/nodecg/react-hooks) - React Custom Hooks for NodeCG
 - [meganrogge/template-string-converter](https://github.com/meganrogge/template-string-converter) - Autocorrect from quotes to backticks
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [antfu/vitesse-webext](https://github.com/antfu/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
+- [antfu-collective/vitesse-webext](https://github.com/antfu-collective/vitesse-webext) - ⚡️ WebExtension Vite Starter Template
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [caoxiemeihao/electron-vite-boilerplate](https://github.com/caoxiemeihao/electron-vite-boilerplate) - 📚 Really simple Electron + Vite boilerplate.
 - [Gabb-c/pokenode-ts](https://github.com/Gabb-c/pokenode-ts) - A lightweight Node.js wrapper for the PokéAPI with built-in types.
