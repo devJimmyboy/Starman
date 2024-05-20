@@ -28,7 +28,6 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [ShaderLab](#shaderlab)
@@ -55,6 +54,7 @@
 
 ## C# # 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [lexonegit/Unity-Twitch-Chat](https://github.com/lexonegit/Unity-Twitch-Chat) - Lightweight and easy-to-use Twitch IRC client for Unity.
 - [ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon) - A Toon Shader in Unity Universal Render Pipeline.
@@ -453,10 +453,6 @@
 - [Rehike/Rehike](https://github.com/Rehike/Rehike) - A custom YouTube server that aims to faithfully restore the old frontend and layout.
 - [Decicus/DecAPI](https://github.com/Decicus/DecAPI) - API provider/proxy that provides plaintext responses - Documentation: https://docs.decapi.me/
 - [thedevdojo/wave](https://github.com/thedevdojo/wave) - Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰
-
-## PowerShell 
-
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 
 ## Python 
 
