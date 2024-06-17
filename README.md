@@ -54,7 +54,7 @@
 
 ## C# # 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [lexonegit/Unity-Twitch-Chat](https://github.com/lexonegit/Unity-Twitch-Chat) - Lightweight and easy-to-use Twitch IRC client for Unity.
 - [ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon) - A Toon Shader in Unity Universal Render Pipeline.
