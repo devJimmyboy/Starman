@@ -178,7 +178,7 @@
 
 ## Dockerfile 
 
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
 ## GLSL 
 
@@ -632,7 +632,6 @@
 - [vrchatapi/vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript) - 🟡 VRChat API Library for JavaScript and TypeScript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
-- [ricardo-ch/react-easy-crop](https://github.com/ricardo-ch/react-easy-crop) - Ricardo fork of https://valentinh.github.io/react-easy-crop/
 - [mosch/react-avatar-editor](https://github.com/mosch/react-avatar-editor) - Small avatar & profile picture component. Resize and crop uploaded images using a intuitive user interface.
 - [reduxjs/redux-devtools](https://github.com/reduxjs/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
