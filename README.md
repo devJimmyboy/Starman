@@ -54,7 +54,7 @@
 
 ## C# # 
 
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [alelievr/HDRP-Custom-Passes](https://github.com/alelievr/HDRP-Custom-Passes) - A bunch of custom passes made for HDRP
 - [lexonegit/Unity-Twitch-Chat](https://github.com/lexonegit/Unity-Twitch-Chat) - Lightweight and easy-to-use Twitch IRC client for Unity.
 - [ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon) - A Toon Shader in Unity Universal Render Pipeline.
@@ -547,7 +547,7 @@
 - [liyong03/YLGIFImage-Swift](https://github.com/liyong03/YLGIFImage-Swift) - Swift implementation of YLGIFImage
 - [sindresorhus/swift-snippets](https://github.com/sindresorhus/swift-snippets) - Various nifty Swift snippets and playgrounds I have created
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults) - 💾 Swifty and modern UserDefaults
-- [NozeIO/swift-nio-irc-client](https://github.com/NozeIO/swift-nio-irc-client) - A Internet Relay Chat (IRC) protocol implementation for SwiftNIO
+- [NozeIO/swift-nio-irc-client-original-fork](https://github.com/NozeIO/swift-nio-irc-client-original-fork) - A Internet Relay Chat (IRC) protocol implementation for SwiftNIO
 - [daltoniam/Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 
