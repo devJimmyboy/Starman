@@ -62,7 +62,6 @@
 - [laurencee/Livestream.Monitor](https://github.com/laurencee/Livestream.Monitor) - A windows GUI for livestreamer/streamlink
 - [Grahnz/TwitchIRC-Unity](https://github.com/Grahnz/TwitchIRC-Unity) - lightweight IRC client component for use with the Unity Engine.
 - [vrchatapi/vrchatapi-csharp](https://github.com/vrchatapi/vrchatapi-csharp) - 🟣VRChat API Library for C#
-- [KorikaDEV/KorikasAvatarPlugin](https://github.com/KorikaDEV/KorikasAvatarPlugin) - 🐈 Manage your VRChat avatars with ease!
 - [kaaori/DynamicBonesStudio](https://github.com/kaaori/DynamicBonesStudio) - A useful tool for quickly setting up and manipulating dynamic bones for Unity characters
 - [PiMaker/VRChatUnityThings](https://github.com/PiMaker/VRChatUnityThings) - Random collection of Unity assets and prefabs, for use with VRChat worlds and avatars.
 - [Guribo/UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils) - Tools/Components for UDON (VRChat) based worlds. Includes private channels, reverb, auto player range adjustment, etc. for player voices.
