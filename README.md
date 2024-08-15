@@ -683,7 +683,7 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [t3dotgg/yerba](https://github.com/t3dotgg/yerba) - Electron Turborepo monorepo with Next.js, Typescript, Vite and more
 - [colyseus/colyseus](https://github.com/colyseus/colyseus) - ⚔ Multiplayer Framework for Node.js
-- [bennobuilder/dronies-watch](https://github.com/bennobuilder/dronies-watch) - 🐦(Note: The backend isn't up and running anymore as its not free)
+- [bennobuilder/dronies-watch](https://github.com/bennobuilder/dronies-watch) - 🐦 Gamified website for droniesnft.com
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [pvarentsov/iola](https://github.com/pvarentsov/iola) - 🔄 iola: Command-line socket client with REST API.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
