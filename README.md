@@ -554,7 +554,7 @@
 ## TypeScript 
 
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
