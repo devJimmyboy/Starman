@@ -225,6 +225,7 @@
 
 ## JavaScript 
 
+- [eAlexandrohin/tickly](https://github.com/eAlexandrohin/tickly) - Twitch Command Line Interface
 - [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [BarryCarlyon/twitch_extension_tools](https://github.com/BarryCarlyon/twitch_extension_tools) - Tools for Twitch Developers to assist them working on a Twitch Extension
