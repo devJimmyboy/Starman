@@ -305,7 +305,7 @@
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player) - JavaScript player library / DASH & HLS client / MSE-EME player
 - [yingpengsha/electron-vite-quick-start](https://github.com/yingpengsha/electron-vite-quick-start) - ⚡ Full stack uses Vite to run Electron application, including main process.
 - [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [ottomated/ludboard](https://github.com/ottomated/ludboard) - 
 - [Seldszar/nodecg-vault](https://github.com/Seldszar/nodecg-vault) - Add vaults to NodeCG for storing bundle secrets
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
