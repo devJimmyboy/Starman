@@ -553,6 +553,7 @@
 
 ## TypeScript 
 
+- [PoglyApp/pogly-standalone](https://github.com/PoglyApp/pogly-standalone) - Real-time collaborative stream overlay powered by SpacetimeDB.
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
