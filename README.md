@@ -125,7 +125,7 @@
 - [unity-atoms/unity-atoms](https://github.com/unity-atoms/unity-atoms) - ⚛️ Tiny modular pieces utilizing the power of Scriptable Objects
 - [UnityCommunity/UnityLibrary](https://github.com/UnityCommunity/UnityLibrary) - :books: Library of all kind of scripts, snippets & shaders for Unity
 - [wave-harmonic/crest](https://github.com/wave-harmonic/crest) - A class-leading water system implemented in Unity
-- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 - [StansAssets/com.stansassets.foundation](https://github.com/StansAssets/com.stansassets.foundation) - Collection of utility methods, design patterns, and extensions for Unity.
 - [baffler/Transparent-Twitch-Chat-Overlay](https://github.com/baffler/Transparent-Twitch-Chat-Overlay) - Twitch chat on top of windowed games for single monitor streamers
 - [umasteeringgroup/UMA](https://github.com/umasteeringgroup/UMA) - Unity Multipurpose Avatar
