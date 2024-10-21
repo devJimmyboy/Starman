@@ -412,6 +412,7 @@
 ## Others 
 
 - [MinecraftModDevelopment/Modding-Resources](https://github.com/MinecraftModDevelopment/Modding-Resources) - A set of ressources for minecraft modding with MinecraftForge by the community
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet) - SwiftUI 2.0 Cheat Sheet
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -554,7 +555,6 @@
 ## TypeScript 
 
 - [PoglyApp/pogly-standalone](https://github.com/PoglyApp/pogly-standalone) - Real-time collaborative stream overlay powered by SpacetimeDB.
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia) - Authentication, simple and clean
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
