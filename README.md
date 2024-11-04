@@ -282,7 +282,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [Marak/colors.js](https://github.com/Marak/colors.js) - get colors in your node.js console
-- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8's Awesome Projen
+- [p6m7g8/awesome-projen](https://github.com/p6m7g8/awesome-projen) - P6M7G8: Awesome Projen
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 - [KaterinaLupacheva/react-progress-bar](https://github.com/KaterinaLupacheva/react-progress-bar) - Simple React progress bar component
