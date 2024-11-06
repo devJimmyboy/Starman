@@ -231,7 +231,6 @@
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [Choices-js/Choices](https://github.com/Choices-js/Choices) - A vanilla JS customisable select box/text input plugin ⚡️
-- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [gluon-framework/gluon](https://github.com/gluon-framework/gluon) - A new framework for creating desktop apps from websites, using system installed browsers and NodeJS
 - [EddieHubCommunity/BioDrop](https://github.com/EddieHubCommunity/BioDrop) - Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
@@ -563,6 +562,7 @@
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [civitai/civitai](https://github.com/civitai/civitai) - A repository of models, textual inversions, and more
 - [facebook/flipper](https://github.com/facebook/flipper) - A desktop debugging platform for mobile developers.
+- [darkroomengineering/lenis](https://github.com/darkroomengineering/lenis) - How smooth scroll should be
 - [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
