@@ -66,7 +66,7 @@
 - [Guribo/UdonVoiceUtils](https://github.com/Guribo/UdonVoiceUtils) - Tools/Components for UDON (VRChat) based worlds. Includes private channels, reverb, auto player range adjustment, etc. for player voices.
 - [VRLabs/Avatars-3.0-Manager](https://github.com/VRLabs/Avatars-3.0-Manager) - A tool for managing playable layers and parameters for Avatars 3.0.
 - [orels1/UdonToolkit](https://github.com/orels1/UdonToolkit) - A set of purpose-built Udon Behaviours and tools to make your own
-- [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition
+- [VRCBilliards/vrcbce](https://github.com/VRCBilliards/vrcbce) - VRCBilliards: Community Edition 1.x
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [dnSpyEx/dnSpy](https://github.com/dnSpyEx/dnSpy) - Unofficial revival of the well known .NET debugger and assembly editor, dnSpy
 - [icsharpcode/ILSpy](https://github.com/icsharpcode/ILSpy) - .NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!
