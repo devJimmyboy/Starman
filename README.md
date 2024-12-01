@@ -485,7 +485,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [tom-doerr/TecoGAN-Docker](https://github.com/tom-doerr/TecoGAN-Docker) - This is a fork of the TecoGAN project (https://github.com/thunil/TecoGAN) that adds support for docker.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on multiple GPUs, TPUs with zero code changes.
-- [BenAAndrew/Voice-Cloning-App](https://github.com/BenAAndrew/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
+- [voice-cloning-app/Voice-Cloning-App](https://github.com/voice-cloning-app/Voice-Cloning-App) - A Python/Pytorch app for easily synthesising human voices
 - [fatchord/WaveRNN](https://github.com/fatchord/WaveRNN) - WaveRNN Vocoder + TTS
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
