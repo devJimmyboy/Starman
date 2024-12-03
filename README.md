@@ -271,6 +271,7 @@
 - [reboot0-de/se-tools](https://github.com/reboot0-de/se-tools) - A toolset designed to make the life of StreamElements widget developers easier.
 - [ryanbarr/node-streamelements](https://github.com/ryanbarr/node-streamelements) - An unofficial wrapper for the StreamElements API.
 - [j3channel/StreamElementsWidgets](https://github.com/j3channel/StreamElementsWidgets) - We've created some Widgets to use with your StreamElements overlays! Feel free to use them for your own streams!
+- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - A professional and completely free distube based music bot for your Discord server, compatible with the highly modernized discord.js v14.16 version.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [simov/purest](https://github.com/simov/purest) - REST API Client Library
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery.
@@ -426,7 +427,6 @@
 - [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) - A curated list of awesome Unity assets, resources, and more.
-- [umutxyp/MusicBot](https://github.com/umutxyp/MusicBot) - An enhanced music bot that is compatible with discord.js v14 and works with slash commands. Discord music bot codes that can be used on any server and are simple to install.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
