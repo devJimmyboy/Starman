@@ -265,7 +265,6 @@
 - [openupm/openupm](https://github.com/openupm/openupm) - OpenUPM - Open Source Unity Package Registry (UPM)
 - [jahaanjain/Emote-Overlay](https://github.com/jahaanjain/Emote-Overlay) - Show Twitch emote streaks on an overlay, and let chatters show specific emotes too.
 - [Supinic/supibot](https://github.com/Supinic/supibot) - Multiplatform, utility & novelty chat bot.
-- [Supinic/supi-core](https://github.com/Supinic/supi-core) - Selective collection of smaller modules.
 - [Supinic/supibot-package-manager](https://github.com/Supinic/supibot-package-manager) - Hub repository for all custom modules and packages for the Supibot project.
 - [kribblo/node-ffmpeg-installer](https://github.com/kribblo/node-ffmpeg-installer) - Platform independent binary installer of FFmpeg for node projects
 - [reboot0-de/se-tools](https://github.com/reboot0-de/se-tools) - A toolset designed to make the life of StreamElements widget developers easier.
@@ -626,7 +625,7 @@
 - [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 - [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [mmattDonk/AI-TTS-Donations](https://github.com/mmattDonk/AI-TTS-Donations) - 🦆💰 A bot that uses Uberduck (and FakeYou) AI to make bit donations have an AI voice.
 - [vrchatapi/vrchatapi-javascript](https://github.com/vrchatapi/vrchatapi-javascript) - 🟡 VRChat API Library for JavaScript and TypeScript
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
@@ -654,6 +653,7 @@
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) - JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [pokeclicker/pokeclicker](https://github.com/pokeclicker/pokeclicker) - The new and improved version of the popular idle/incremental PokéClicker
+- [Supinic/supi-core](https://github.com/Supinic/supi-core) - Selective collection of smaller modules.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
