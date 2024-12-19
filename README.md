@@ -45,6 +45,7 @@
 
 ## C 
 
+- [MathIsFun0/Immolate](https://github.com/MathIsFun0/Immolate) - An OpenCL seed searcher for Balatro.
 - [MozillaReality/servo-unity](https://github.com/MozillaReality/servo-unity) - INACTIVE - Servo for Unity - experimental
 - [pangweiwei/slua](https://github.com/pangweiwei/slua) - Fastest lua binding via static code generating for Unity3D and mono.
 - [olliz0r/sys-botbase](https://github.com/olliz0r/sys-botbase) - 
@@ -224,6 +225,7 @@
 
 ## JavaScript 
 
+- [sweetalert2/sweetalert2](https://github.com/sweetalert2/sweetalert2) - ✨ A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies. 🇺🇦
 - [eAlexandrohin/tickly](https://github.com/eAlexandrohin/tickly) - Twitch Command Line Interface
 - [JannisX11/blockbench](https://github.com/JannisX11/blockbench) - Blockbench - A low poly 3D model editor
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -554,7 +556,7 @@
 
 - [PoglyApp/pogly-standalone](https://github.com/PoglyApp/pogly-standalone) - Real-time collaborative stream overlay powered by SpacetimeDB.
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
-- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management solution built for developers.
+- [Unleash/unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl) - React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React.
