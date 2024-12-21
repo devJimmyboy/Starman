@@ -775,7 +775,7 @@
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
 - [jsardev/reaptcha](https://github.com/jsardev/reaptcha) - Google reCAPTCHA v2 for React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [pixijs/spine](https://github.com/pixijs/spine) - Pixi.js plugin that enables Spine support.
+- [pixijs-userland/spine](https://github.com/pixijs-userland/spine) - Pixi.js plugin that enables Spine support.
 - [pixijs-userland/particle-emitter](https://github.com/pixijs-userland/particle-emitter) - A particle system for PixiJS
 - [pixijs/sound](https://github.com/pixijs/sound) - WebAudio API playback library, with filters. Modern audio playback for modern browsers.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
