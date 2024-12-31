@@ -771,7 +771,7 @@
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
 - [infinitered/reactotron](https://github.com/infinitered/reactotron) - A desktop app for inspecting your React JS and React Native projects. macOS, Linux, and Windows.
 - [with-heart/chakra-formik-experiment](https://github.com/with-heart/chakra-formik-experiment) - An experiment for tight-knit Chakra+Formik integration with a familiar API
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [antfu/vscode-vite](https://github.com/antfu/vscode-vite) - One step faster for Vite in VS Code ⚡️
 - [jsardev/reaptcha](https://github.com/jsardev/reaptcha) - Google reCAPTCHA v2 for React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
